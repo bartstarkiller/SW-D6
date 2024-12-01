@@ -1,0 +1,1 @@
+D6 SW Obsidian! Create a new Obsidian Vault, Go to options in the Vault switcher and click 'Reveal in System Explorer', then copy and paste the downloaded files into your vault. If you wish to keep your existing plugins and settings, DO NOT copy and paste the .obsidian file.
