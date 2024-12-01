@@ -1,0 +1,3 @@
+A breadlike product of the [[Svivreni]], made from mashed [[Oulgo | Oulgo Root]] with savory seasonings then baked until a hearty brown. May have any number of puree fillings or may be baked with pieces of other fruits, vegetables, or meats spread throughout the cake.
+
+Top with a honey of your choice (we recommend [[Bhiti bird honey]]) and allow to crisp 25% longer than the time it takes to turn golden-brown for an unforgettable side dish that will take you straight to the fjords of [[Svivren]]. 

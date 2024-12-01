@@ -1,0 +1,1 @@
+A galactic favorite and staple. One can find stimcaf anywhere, but good stimcaf- that's a place worth coming back to.

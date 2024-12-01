@@ -1,0 +1,148 @@
+![[Pasted image 20241014030622.png]]
+
+ Swokes Swokes {.Aurebash}
+
+Home Planet: [[Makem Te]]
+Attribute Dice: 12D
+##### DEXTERITY 1D/3D+1
+##### KNOWLEDGE 1D/3D+2
+##### MECHANICAL 1D/3D+1
+##### PERCEPTION 1D/3D+2
+##### STRENGTH 2D/4D+2
+##### TECHNICAL 1D/3D+1
+**Move: 10/12**
+**Size: 1.4-2 meters tall**
+
+> [!_2] 
+> **Special Abilities**
+> > **Natural Armor:** A Swokes Swokes’ rubbery hide grants +1 against physical damage.
+> 
+> > **Limb Regeneration:** With ten days of rest, a Swokes Swokes can completely regrow a lost limb or organ.
+> 
+> > **Resilient:** Swokes Swokes become hardier as they age. Adults gain a **+1** bonus to stamina rolls. The bonus increases to **+2** at middle age, **+1D** at old age and **+1D+1** at venerable age.
+> 
+> >**Skill: Funerary:** Swokes Swokes are reknown for their veneration of the deceased and the honors bestowed upon them. Swokes Swokes gain a free 1D in Funerary, and add 2D for each D spent at character creation. 
+> 
+
+*Source: Geonosis and the Outer Rim Worlds (pages 94-95)*
+
+#Swokes_Swokes #Makem_Te #regeneration #religious #violent #reputation #funerary 
+#stamina_skill_bonus 
+
+**Wookiepedia**
+
+## Overview
+
+"_We'd hit the alien digs most. Swokes Swokes and Duros can never fig how old humans really are, so we'd get in without ever getting scanned._"
+
+―Pori Nate, on obtaining death sticks
+
+The **Swokes Swokes** were a sentient species native to the Outer Rim planet of Makem Te. Large, stocky creatures, they had sharp, protruding teeth, perpetually grinning mouths, a series of horns crowning their pallid heads, one to three nostrils, and no hair. Some members of the species had long, heavy, spiked tails. Swokes Swokes had the ability to regenerate lost body parts, an ability that afforded them considerable bravado on the battlefield. Death was a prominent aspect of their culture; indeed, the Tract was an enormous expanse of tombs and crypts on their homeworld that supported a major part of the planetary economy and was visible from space. The Swokes Swokes viewed jewelry as a status symbol and often had gems implanted close to vital organs. Most Swokes Swokes were religious zealots. Makem Te society had little advanced technology. Builders relied on sturdy yet delicate-looking cast iron for their primary construction material, and transport often relied on domesticated serpentine creatures called schingas.
+
+A coalition of royal families known as the Congress of Caliphs ruled the species' homeworld. The planet and its natives escaped widespread attention from the greater galaxy until scientists from the Galactic Republic discovered rich veins of ore and spice on the world and brokered a mining deal with the planetary government. The introduction of galactic technology set off a wave of social unrest on Makem Te, disturbing the tradition-minded people and spurring several religious schisms. The Temple of the Beatific Razor, a violence-worshiping sect, attracted enough adherents to challenge the authority of the aristocracy. Over the next few decades, the caliphs called in the aid of a succession of multi-system governments as their allegiances swung from one political pole to another: first the Galactic Republic—a body in which the species was represented at the time of the Invasion of Naboo—then the Confederacy of Independent Systems, and finally the Galactic Empire. The Swokes Swokes never joined the New Republic, although they did establish relations with the New Jedi Order.
+
+## Biology and Appearance
+
+"_Regenerate_ that!_"
+
+―Jedi Knight Toro Irana upon beheading a Swokes Swokes opponent
+
+The Swokes Swokes were large, stocky, sentient bipeds who stood between 1.4 and 2 meters tall. They had four or five clawed fingers on each massive hand, which enabled them to effect a firm but soft grip. Four forward-pointing toes on each foot were balanced by a single backward-facing digit. The beings had long, thick tails that ended in knobby spikes, although not all members of the species exhibited this trait. Their glistening, hairless loose-hanging skin covered their rolls of fat, which made striking a member of the species feel like hitting soft dough. The skin ranged in color from sallow gray to ashen off-white, and their soft tissue was thick and rubbery.
+
+The Swokes Swokes visage was primarily flat and featured two large, lidless eyes that ranged from black to red, blue, or white set into black sockets and hidden behind goggle-like natural shades. A gaping grin of irregular, fang-like incisors—unable to form a frown—and one to three nostrils lie beneath. The bulbous head was situated atop the fleshy neck, although the neck itself was hidden under folds of flesh. The head was ringed by a series of sharp horns, and another set of horns at the top. To non-Swokes Swokes, the overall appearance was almost humorous or at the very least unattractive, but was often thought more akin to that of a creature common to the nightmares of many cultures.
+
+Internally, Swokes Swokes biology resembled that of more primitive lifeforms, such as flatworms. The species' nervous system was underdeveloped in comparison to other sentients, lacking all but the most essential pain receptors. This gave the beings a remarkably high pain threshold but deadened their sense of touch. Swokes Swokes blood had the consistency of watery sap and oozed through their bodies. Like flatworms, they had the ability to regenerate lost body parts, although the process left scars. Regrowing a missing limb took about 10 standard days, provided the individual avoided physical exertion. Swokes Swokes could not regenerate a head, so beheading killed them instantly. Nevertheless, coupled with their naturally damage-resistant hides and resistance to pain, their regenerative properties made Swokes Swokes fierce, relentless opponents in battle. Despite their unique internal physiology, Swokes Swokes were susceptible to certain forms of spice, including Tempest"). Once addicted, they were immune to the physical pain of withdrawal, although they suffered psychological effects during such abstention. The species was divided into two sexes: male and female.
+
+Swokes Swokes entered adolescence at 9 standard years and were considered adults at 14 standard years. An average member of the species lived to 75 standard years. Swokes Swokes grew tougher and more resilient with age. The oldest were often the most difficult to take down in a fight.
+
+## Society and Culture
+
+"_Where'd you learn to speak Swoken?_" "_A friend from Makem Te._" "_What I wouldn't give to see Makem Te again._"
+
+―Mokshok and Lalo Gunn
+
+The Swokes Swokes had a reputation as merciless, unscrupulous, overbearing ruffians who cared only for personal prestige. This desire manifested differently from being to being, with some Swokes Swokes guided by mercurial longing for money and others more concerned for fame, notoriety, or influence over others. The view of the Swokes Swokes as brutes was reinforced by official Swokes Swokes institutions and religious doctrines. Wealth was one measure of status, and expensive gifts were a sure way to gain an audience with a Swokes Swokes. A popular status symbol was to have gemstones surgically embedded in the flesh near vital organs. The practice became so common that bioscanners operated in most Swokes Swokes buildings so that the relative status of the individuals inside could be detected and monitored; this practice prevented all but the most determined Swokes Swokes from trying to pass themselves off as coming from a higher station than their own.
+
+Although not graceful creatures, Swokes Swokes were known for their fierceness in battle and their violent culture. The beings seemed made to fight, what with their resistance to pain, ability to regenerate lost limbs, natural weapons, and belligerent mindset; when injured in battle, members of the species might cry out, but such a reaction was due to surprise or shock rather than pain. Swokes Swokes relished conservatism and the past. Ancient traditions guided the people for millennia, and the species disliked change. The most visible manifestation of this penchant was in Swokes Swokes religious beliefs.
+
+The standard Swokes Swokes diet consisted of food and drink such as spiced, boiled meats served with [[schinga scales]] and still-living sandbugs; [[broiled beetles]]; [[Swokes Swokes Alcoholic Scentwine]] served in double-handled mugs; [[muja fruit]]; and [[necrotic sugar candies]] shaped like the skulls of various species. They generally ate by sitting on iron stools and eating with forks from communal troughs, which ran the length of the table; still, at least some Swokes Swokes restaurants featured standard tables for patrons of other species. Swokes Swokes preferred cool temperatures and kept their businesses cold. Likewise, some Swokes Swokes made their living as waiters in these establishments. They were loud and messy eaters, and they cared little for oral hygiene. Cannibalism was an acceptable punishment for disgraced members of the species and came in varying degrees of severity: to be eaten by one's own family members was preferable to being eaten by strangers.
+
+The Swokes Swokes' language was known as Swoken. Other species found the language harsh and guttural, or shrieking when Swokes Swokes got into disagreements. Written Swoken used a primitive alphabet. Members of the species sighed to convey forlorn feelings and laughed to convey amusement. Most Swokes Swokes could speak and read Basic as well, although their voices sounded slurred and gurgling to outsiders when using that language. Likewise, Basic sounded unattractive and overly fluid to Swokes Swokes sensibilities. Some Swokes Swokes names were simple, such as Machug and Sorpaat. Others names commonly consisted of a given name followed by one other element. For some, this was a region of origin or a notable feature. Examples include Burba of Strekk and Fabswa the Mutilated. Other Swokes Swokes had two different names, such as Oakie Dokes. Notable Swokes Swokes adopted a double name as a symbol of their fame. Examples included Woorta Woorta, Yeb Yeb Adem'thorn, Chako Chako, Gragra, Kruke Kruke, and Wruuta Wruuta.
+
+**Institutions**
+
+"_Diplomats? What an amazing coincidence! My first mate, Mokshok, used to be a diplomat. He was an ambassador of Makem Te. From what I've heard, he was a good one, too, not that he enjoyed it very much. Endless conferences and private meetings. Too many customs to remember. Always having to dress properly. But look at him now!_"
+
+―Hethra Mcgrrrr
+
+The Congress of Caliphs, a body made up of hereditary family leaders, ruled the two billion Swokes Swokes of Makem Te, the species' homeworld. Individual caliphs had sovereignty over individual settlements or portions of a larger population center. For example, 12 caliphs shared sovereignty over Thousand Thousand, the largest city on the planet with its some two million inhabitants. The caliphs often hired Swokes Swokes or offworlders to do various services, especially if such job seekers brought appropriate offerings. Makem Te dispatched ambassadors and diplomats to other worlds; such individuals had to attend innumerable conferences, uphold protocol, and wear specialized dress.
+
+Confrontations between Swokes Swokes often centered on religious disagreements. Indeed, rival religious sects vied for the devotion of the people. The most prominent of these was the Temple of the Beatific Razor. Its doctrines stressed fanatical devotion and the use of force against those who violated the order's precepts. Some Razor penitents flayed large strips of flesh from their bodies as a sign of their devoutness; such individuals appeared thinner than most Swokes Swokes. The Temple was ruled by 11 High Mystics. Its radical policies, violent protests, and ever-growing popularity led to its banning by the Council of Caliphs.
+
+Regardless of their sect, most Swokes Swokes believed in the veneration of their ancestors. Funeral planning was an artform in Swokes Swokes culture, and the dead were either buried or cremated. The death of a high-status Swokes Swokes carried with it a mandatory mourning period at the place where the individual died. Swokes Swokes carried relics of their deceased relatives—their ashes or small body parts such as fingers, gallstones, or teeth—in small pouches. These were considered good luck charms. This zealous devoutness was most readily apparent in the Tract, an enormous patch of one of the planet's continents made up of two-meter-wide squares of polished stone, each housing a monument called a _stela_. Each tile was thought to contain the soul of a deceased Swokes Swokes. When Republic scouts discovered Makem Te some 25,000 to 24,000 years before the Battle of Yavin, the Tract had already reached 2,300 kilometers on a side. By the time of the New Order, the Tract was home to more than 1.2 trillion stela and took up 7% of Makem Te's landmass. The Tract appeared as a large, white mass from space; indeed, when Republic scouts first saw it from space, they mistook it for a polar icecap. The Tract was listed among the Twenty Wonders of the Galaxy.
+
+The Tract was of such importance to the Swokes Swokes that it supported its own industry. The maintenance of the area and its continued expansion required vast outflows of capital and a large workforce. This was overseen by the Tract Conviction. Record-keeping and accounting alone required millions of Conviction employees. Other Swokes Swokes, known as flatstenders, traveled the Tract in landspeeders, looking for areas in need of repair or for supplicants in need of help. Tract stones came from rock quarries. Flying over the Tract or traveling its expanse in vehicles was verboten and met with force from Makem Te defenses. Instead, supplicants were expected to enter only at specified points, register with the Conviction, and pay a fee of up to 500. This covered the necessary sacraments, including a spotted robe of a color that signified which portions of the Tract the supplicant had the right to access. Even with flatstenders on guard, visitors still fell prey to desert hazards or attacks by wild creatures known as schingas. Offworlders faced the additional threat from penitents of the Beatific Razor, who considered visits by non-Swokes Swokes sacrilege and attacked such interlopers. Settlements near the Tract catered to pilgrims with restaurants, tapcafes, and shops that sold funeral goods.
+
+**Trade and Technology**
+
+Although the Swokes Swokes had access to only primitive technology before contact with the Galactic Republic, they perfected the industries of metal working and animal husbandry. For centuries, Swokes Swokes cities were made of cast iron, although by the time of the New Republic, this material was supplemented by wood as well as by plate glass for windows. This building strategy was originally a survival mechanism to withstand the constant wars on the planet, yet Swokes Swokes smiths embraced the material and developed it to new heights of aesthetics. While such a material might have proved clumsy or unworkable to some species, Swokes Swokes smiths learned to create buildings and structures with intricate, even delicate, designs, constructing structures such as spiral staircases from the material. They practiced recycling as well.
+
+The funeral industry was highly developed on Makem Te; practitioners of the funeral trade took great pride in their expertise, and one of the few situations in which a Swokes Swokes might prove helpful and friendly to an outsider was when planning for the interment or cremation of the deceased. Indeed, Swokes Swokes settlements sported large bazaars and marketplaces served by myriad alleyways. Vendors specialized in various items necessary for that sector of the planet's economy; these vendors sold such items as metal memorials, robes, funeral wrappings, tapestries, mementos, ointments, and wreaths. Warehouses supplied these salesbeings with wares. Meanwhile, seers and spiritualists offered to contact the spirits of the newly deceased for family members worried about the adequacy of recently conducted funeral ceremonies. Alchemical shops also serviced the cities.
+
+The Swokes Swokes domesticated species of the serpent-like schinga, the dominant lifeform on Makem Te. For example, the schinga equa was used for its strength and obedience, while the schinga shikou was the most conducive to riding. To ride a schinga, the Swokes Swokes developed equipment known as a coiling tack set: a bit, bridle, reins, and saddle. A long electropole was used to guide the schinga—and as an impromptu weapon in the event of an attack. Schinga shikou breeding was an important industry on Makem Te; the creatures were pricey signs of status.
+
+Makem Te lay along the Perlemian Trade Route and enjoyed a steady flow of space traffic. Hundreds of mining machines operated on the planet. Although the machines were owned by offworld interests, a cut of the profits from the ores and spices extracted went to the Council of Caliphs. The mining machines were common targets for the Temple of the Beatific Razor, which opposed foreign influences on Makem Te. Major exports from Makem Te included raw ores and spices, while major imports were food and high technology.
+
+## History
+
+"_Yellow star: Makem. Third planet: Makem Te. Arid, pebbly, no oceans, one large ice cap._"
+
+―Republic scout
+
+The Swokes Swokes evolved on Makem Te, a desert world in the Outer Rim Territories. The species' ancestors evolved thick hides to resist either fierce predators or severe radiation. With no surface water to drink, they learned to dig into the planet's subterranean aquifers, which were replenished by heavy rains twice each local year. A number of families rose to prominence and came to dominate the rest of the species. The heads of these families, known as caliphs, waged war on one another for generations. Under this constant onslaught of rival armies, Swokes Swokes turned to cast iron for a building material for its sturdiness. At some point before or shortly after the Galactic Republic discovered their world, the Swokes Swokes royalty joined forces to form the Congress of Caliphs, a governing body with planetwide jurisdiction. The Swokes Swokes developed a native religion based on ancestor worship. Religion joined warfare at the pinnacle of Swokes Swokes endeavor, and a planetwide graveyard known as the Tract began to take shape from an early date.
+
+Between 25,127 and 25,096 BBY, strangers explored the areas of realspace in Makem Te's neighborhood. They belonged to the forces of Xim the Despot, and before long, the Swokes Swokes' home system had fallen within the bounds of Xim's empire. Despite Xim's death around 25,100 BBY, Makem Te became part of a region of the galaxy known to both the Tionese") and the Hutts.
+
+Sometime between 15,000 and 10,000 BBY, a Republic scout visited the Makem system while mapping the Perlemian Trade Route. The explorer made little note of Makem Te and even mistook the Tract for an ice cap. The scout's report made no mention at all of the Swokes Swokes. Long after the discovery, a Republic beacon crew came to install a navigation buoy in the system. Intrigued by Makem Te's large supposed ice cap, the mission sent a team of scientists to visit the surface. There, they learned of the Tract's true nature and made contact with the Swokes Swokes. At this point the Tract had already sprawled to 2,300 kilometers on a side. The scientists entered the Swokes Swokes' iron cities and learned more about the planet and its lifeforms. As news of the species and their world spread, the historian Vicendi included the Tract on his list of the Twenty Wonders of the Galaxy in 10,000 BBY. Makem Te eventually became part of the Nilgaard sector.
+
+Although Makem Te joined the Republic at some point before the Invasion of Naboo, the Swokes Swokes and their planet were little more than a passing interest in the early days of their contacts with the galaxy at large. The Republic installed a fueling station in orbit around Makem Te and left the world largely to its own devices. Nevertheless, over the centuries, the Swokes Swokes and their homeworld were caught up in galaxy-spanning conflicts. During the Great Sith War, the Dark Reaper campaign passed through their system and the Sith Empire") scored a victory there. Years later, the Mandalorian Wars saw Mandalorian and Republic forces clash") in the system, an encounter that resulted in a Mandalorian victory. Later, their world fell within Darth Revan's Sith Empire during the Jedi Civil War from at least 3959 to 3956 BBY.
+
+Eventually, a pair of bored geologists, stuck at the Makem Te orbiting station for a long period, visited the surface and investigated one of the quarries where Tract stones were obtained. What they saw astounded them: Makem Te housed rich deposits of metal ores and medicinal spices. News of the discovery spread, and soon, Republic investors struck a deal with the Congress of Caliphs to allow them to establish mining operations on the world. Offworlders and advanced technology quickly became common sights on the planet and profoundly affected Swokes Swokes society. The miners paid little heed to environmental safeties, and the already harsh biosphere of Makem Te became even more inhospitable. As a people comfortable with ancient traditions, the infusion of foreign influences made some Swokes Swokes question their ages-old faith and institutions. Religious sects sprung up across the planet. One of these was the Temple of the Beatific Razor, which preached a faith of blind religious fervor and violent protest. As the Razor's popularity grew, the Temple's 11 High Mystics and swelling ranks of penitents gained enough influence to challenge the primacy of the Congress of Caliphs. The planetary government responded by calling in the aid of the Galactic Republic Judicial Department. Security officers were dispatched to quell the Razor-led rebellions, pleasing the caliphs. but outraging the populace and driving more adherents to the Razor's cause.
+
+After the outbreak of the Clone Wars, the Beatific Razor eliminated all Republic peacekeepers on the planet. The galactic government, already taxed from waging the Clone Wars, abandoned its mission. Seeing little choice, the caliphs approached Count Dooku and the Confederacy of Independent Systems for help in quelling the Razor's aggression's. Troops from the Separatist-allied Techno Union undertook the task of repelling the Razor penitents and propping up the caliphs. These forces became common sights near Thousand Thousand. At some point before the end of the war, Makem Te rejoined the Galactic Republic to safeguard its mining sector. The Separatists stationed an experimental landtank/Legends") called the _Bogg Behemoth_ outside Thousand Thousand. The Republic deployed a legion of clone troopers led by the Human Jedi Obi-Wan Kenobi and Anakin Skywalker to defend the city and destroy the weapon before it could be made operational. The Republic's intelligence proved faulty, however, as the tank had already been brought online; during the ensuing battle"), the Republic forces destroyed the tank and captured its engineer, a Geonosian named Bogg. After the rise of Emperor Palpatine, the Galactic Empire maintained deals brokered with the Separatists, but provided the caliphs with advanced weaponry and only kept occasional troops on Makem Te.
+
+Despite the defeat of the Empire at the Battle of Endor, the Council of Caliphs remained affiliated with various Imperial factions for nearly another 20 years. Imperial troops remained on Makem Te, making it a fortress world. However, after Mon Calamari forces allied with the New Republic won a battle") at the nearby Emmer system, Makem Te found itself isolated from other Imperial systems. In 7 ABY, the forces of the Warlord Zsinj expanded Zsinj's Empire to include the Makem system, once again reuniting the Swokes Swokes with the Empire. The affiliation was short-lived, however, as Zsinj died in 8 ABY, and his empire dissolved. The Swokes Swokes maintained their Imperial allegiances during the Thrawn campaign, despite the fact that their world lay within the disputed Borderland Regions. When its final Imperial patron was vanquished, the caliphs remained neutral in galactic affairs and refused to join the New Republic.
+
+By 19 ABY, the Congress of Caliphs had established diplomatic ties with the New Jedi Order on the moon Yavin 4. That year, Makem Te became a hub for the distribution of Tempest, a powerful form of spice that caused long-term users to fly into fits of murderous rage. The Pantoran Jedi Knight Toro Irana became addicted to the substance and visited Makem Te to buy more. While waiting for a Rodian drug dealer named Dejarro at a restaurant, Irana, high on Tempest, became embroiled in a brawl with Choka Chok, the nephew of a Swokes Swokes caliph. The encounter ended in not only Chok's death, but also that of five others, dismemberment for twelve other Swokes Swokes, and Irana's own death after he misjudged his momentum and fell out a window. Afterward, the Congress of Caliphs complained to the Jedi about the incident, and Irana's Jedi Master, the Human Jedi archivist Mander Zuma, traveled to Makem Te to arrange Irana's funeral and to investigate the death. The search took the Jedi to a warehouse, where he came under attack by Rodians of the Bomu Clan and their Swokes Swokes minions. Zuma escaped with the help of Toro Irana's sister, Reen Irana, and her Bothan companion, Eddey Be'ray. The trio continued the investigation and followed the trail of the Tempest trade, which they endeavored to shut down. As their efforts bore fruit, the Bomu Clan slowly abandoned their spice dealings on Makem Te. Swokes Swokes addicted to the spice grew increasingly agitated as their supply was curtailed until only one dealer, a Rodian named Rolan"), remained.
+
+During the Yuuzhan Vong War, the invaders targeted Makem Te in an attempt to disrupt the Perlemian Trade Route. They bombarded the orbital fueling station, still in use since its creation millennia ago, and sent it crashing to the surface of the planet. It narrowly missed the Tract. Years later, Makem Te fell within the bounds of the Galactic Empire of Darth Krayt.
+
+## Swokes Swokes In the Galaxy
+
+While many members of the species gained renown on their homeworld —such as influential importer and schinga breeder, Woorta Woorta; and the First Glorious Assassin of the Temple of the Beatific Razor, Fabswa the Mutilated— others emigrated. These often capitalized on their natural fighting abilities to find employment as bodyguards, bounty hunters, and mercenaries. For example, a Swokes Swokes was among the crew of the Twi'lek pirate Reess Kairn sometime before 27 BBY. Later, during the Clone Wars, the Swokes Swokes diplomat Mokshok found himself stranded near a black hole in the Unknown Regions and joined the Black Hole Pirates trapped there by its gravity well. Mokshok became the first mate of the Human pirate captain Hethra Mcgrrrr until the Trandoshan Bossk managed to usurp Mokshok's position. Higher-ranking Swokes Swokes sometimes took up residence on out-of-the-way planets and became involved in organized crime. Even Yeb Yeb Adem'thorn, Makem Te's Senator during the last days of the Republic, was accused of corruption after he took up residence in an opulent abode on Coruscant.
+
+Others tried to fit in with high society as gamblers or dilettantes. Oakie Dokes left her family's schinga ranch on Makem Te to show livestock on the galactic capital planet, Coruscant. There, she mismanaged her funds and fell into poverty. She eventually discovered a talent for art—with works that necessitated the killing of her subjects. At least one Swokes Swokes was present at the Galaxies Opera House in 19 BBY when Anakin Skywalker and Supreme Chancellor Palpatine were in attendance. By 0 ABY, another Swokes Swokes had clawed her way into high society on the planet Ord Mantell.
+
+On the desert world of Tatooine, Swokes Swokes lived in Mochot Steep and Mos Espa. In the latter location, the Swokes Swokes Gragra sold a variety of food items from a market stall, primary among them gorgs, which she raised in the sewers beneath the town. Another member of the species tended bar at Mos Espa's Poodoo Lounge. Several Swokes Swokes worked in the nightlife establishments of Coruscant's lower levels in the latter days of the Republic; such beings had difficulty telling a Human's age, so Human teenagers sometimes slipped into clubs illegally. A Swokes Swokes was among the victims of the ruthless dictator Uda-Khalid.
+
+A number of Swokes Swokes served in the Jedi Order and due to their lack of hair, Swokes Swokes Padawans planted medallions into the flesh beneath their foreheads as an alternative to the standard Padawan braid worn by apprentices.
+
+%% "_But I have become oddly enamored with that Swokes Swokes. Sometimes, certain characters are just fun to draw._"
+
+―Pablo Hidalgo %%
+
+**Gallery**
+
+![[Pasted image 20241014032552.png]]
+*The Swokes Swokes domesticated the schinga shikou for use as a mount.*
+
+![[Pasted image 20241014030909.png]]
+
+![[Pasted image 20241014033459.png]]
+*Yeb Yeb Adem'thorn served as Makem Te's Senator in the Galactic Republic at the time of the Invasion of Naboo.*
+
+![[Pasted image 20241014034014.png]]
+*Oakie Dokes was an artist on Coruscant during the latter days of the Republic.*
+
+![[Pasted image 20241014034724.png]]
+o

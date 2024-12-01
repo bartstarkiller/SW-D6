@@ -1,0 +1,76 @@
+![[Pasted image 20240513011822.png]]
+Ri'Dar {.Aurebash}
+
+HomePlanet: Dar’Or
+**Attribute Dice: 10D**
+##### DEXTERITY 3D/ 5D
+##### KNOWLEDGE 1D/ 2D+1
+##### MECHANICAL1D/ 3D
+##### PERCEPTION 2D/ 4D
+##### STRENGTH 1D/ 2D+1
+##### TECHNICAL 1D/ 3D
+**Move: 5/7 (walking), 15/20 (flying)**
+**Size: 1 meter tall, 3 meter wingspan**
+
+> [!_2] 
+> **Special Abilities**
+> > **Fear:** When faces with dangerous or otherwise stressful situation, the Ri’Dar must make an **Easy** willpower roll. Failing this roll means that the Ri’Dar cannot overcome fear and runs away from the situation.
+> 
+> > **Flight:** On planets with one standard gravity, Ri’Dar can easily glide (they must take the Dexterity skill flight at at least 1D). On planets with less than one standard gravity, they can fly under their own power. Ri’Dar cannot fly on planets with gravities greater than one standard gravity.
+> 
+> >**Long-sight:** Ri'Dar have evolved superior long distance vision in order to see predators before they approach. Ri'Dar gain +2D to seeing at long range. 
+> 
+> **Story Factors**
+> > **Paranoia:** Ri’Dar see danger everywhere and are constantly alarming other beings by overestimating the true dangers of a situation.
+> 
+
+*Source: Galaxy Guide 4: Alien Races (pages 75-76)*
+
+#RiDar #DarOr #flying #fast #bat #paranoid #fear_weakness #keen_vision 
+#bio-harvestable %% fear compounds %%
+#forest 
+
+%% I edited the stat block to include a bonus at range. Their data calls for it due to their reputation as excellent snipers. %%
+**Wookiepedia**
+
+## Overview
+
+**Ri'Dar** were sentient flying primates from the forests of the planet Dar'Or. As adults, they had a wingspan of three meters and were approximately one meter long, counting their furry tails. Ri'Dar evolved from tree-climbing creatures who had evolved flaps of skin between their arms and legs in order to glide. Over time, the simple gliding flaps evolved into true wings supported by extended fingers on their hands. The energy needed for flight required Ri'Dar to consume up to half their body weight in food each day, usually in the form of insects, fruit, and fungi. Ri'Dar were agile fliers on Dar'Or and other low-gravity planets, but they could not fly in environments with heavier than one standard gravity. The Ri'Dar became known to the galaxy after their homeworld was transformed into an Imperial nature preserve, not for any of Dar'Or's native fauna, but for a predatory bird called the elix. The animal came from a high-gravity planet that was on the brink of destruction from a looming supernova. Since Dar'Or was a low-gravity planet, the elix proved even deadlier predators after their relocation. The Ri'Dar, already preyed upon by the sabretoothed indola, had only their swiftness and keen senses to protect them from the new threat.
+
+On their homeworld, Ri'Dar lived a simple existence in their treetop warrens. Their technology consisted primarily of wooden spears, bows, and similar tools. The typical Ri'Dar was nervous and fearful by nature, since flying away from their many predators was their most effective defense. They tended to live for the present rather than the future, as they often had little confidence in their long-term survival. Such libertinism also gave them a mercurial temperament: a Ri'Dar had the capability to become very angry or very happy with little warning. During courtship, Ri'Dar engaged in mating dances. Ri'Dar were surprisingly common away from their homeworld, as they sometimes stowed away with smugglers and poachers who arrived on Dar'Or to hunt elix for their valuable meat. Ri'Dar were often found as companions of smugglers, either as pets, servants, or, rarely, full crew members.
+
+## Biology and Appearance
+
+Beings who averaged one meter in both height and length, the Ri'Dar were winged primates whose bodies were covered in soft, brown fur. Although the Ri'Dar body followed a roughly humanoid physique and musculature, with a head, torso, and four limbs, the primates' long wings and stubby legs set them apart from many other species in the galaxy. The Ri'Dar's feet featured toes with which they were able to grasp objects or hang upside-down from branches. Their wings resembled triangular membranes, with an edge that ran from the tip of the elongated little finger to the small toe, and another along the sides of the body and arms. At the apex of the wing, a Ri'Dar had between four and eight clawed digits, although a six-finger configuration was the most common. The average Ri'Dar wingspan stretched three meters, a body plan that made the species swift, agile aerobats on planets with less than one standard gravity and deft gliders on worlds with heavier gravitational pull. The bushy tail's long, wide, and flat shape allowed it to act as an airfoil rudder to help maneuver in flight.
+
+Despite a relatively small cranium, Ri'Dar were fully sentient, their brains on par with those of many other intelligent species. Each Ri'Dar had a pronounced brow ridge over two enormous eyes, which blazed various shades of red. Their pupils appeared as slits when contracted but as dark disks when dilated. The species' countenance was hairless and mutable, with a small, flat nose and powerful mandibles, the lower of which jutted out slightly. Two large, pointed ears stood erect on either side of the head. In tandem, the features granted the Ri'Dar keen senses of sight, smell, and hearing. Their sense of long-distance vision was particularly powerful.
+
+Ri'Dar were omnivores who subsisted on fruits, fungi, and flying insects. They preferred to eat vegetation whenever possible. The species' metabolism was so active that a Ri'Dar had to eat half of his or her body weight each day for basic nourishment. The species reproduced sexually, and after a male and female mated, the female gave birth to a litter of young that usually numbered five or more. Youths grew and developed rapidly, and reached maturity in only a few weeks.
+
+## Society and Culture
+
+To members of other species, Ri'Dar seemed to have two overriding personality traits: freneticism and paranoia. The two characteristics created a feedback loop: members of the species frantically scurried about out of the belief that instant death lay around every corner, which made basic needs and urges the only impulses worth acting upon. As such, Ri'Dar operated very much in the moment with little concern for the future. Similarly, the flighty primates were prone to capricious mood swings, as their feverish minds reacted to stimuli that sent them from one extremity to another. Ri'Dar society was largely conservative, as the beings tended to avoid innovation and change as potentially dangerous unknowns, and they preferred to ignore problems if at all possible rather than actively seek solutions to them. Only the sense of immediate danger spurred a Ri'Dar to act, and then usually only to flee, not fight. Questioning Ri'Dar about their edginess and timidity often confirmed their suspicions that the individual asking such questions was obviously hiding something and had best be avoided. Not even intimate friends were trusted completely.
+
+Nevertheless, the two main facets of the Ri'Dar psyche, hyperactivity and fearfulness, served the small primates as defense mechanisms against the ever-present dangers posed by the predators of Dar'Or, the Ri'Dar homeworld. For most of their history, the Ri'Dar's main threat came from the [[sabretoothed indola]], also known as the sabretoothed tree sloth. The carnivore was particularly adept at raiding Ri'Dar warrens, where it found its favored meal: Ri'Dar young. During an indola attack, Ri'Dar adults raised an alarm, and all able-bodied members of the group fled. However, the warning often came too late to save the children; some indola attacks were known to completely wipe out a community's young. After the rise of the Galactic Empire over much of the galaxy, the Ri'Dar also had to contend with a species of bird known as the elix, introduced from offworld. The predators traveled in flocks and attacked airborne Ri'Dar en masse, skeletonizing a full-grown member of the species in seconds. Although adult Ri'Dar were able to escape the slow-moving indola by taking to the air, they were no match for the swift elixes, which made escape from an attack by air a questionable proposition. Instead, Ri'Dar had little choice but to use their keen perception to detect elix attacks ahead of time and to reduce their exposure to the avians by confining open-air movement to the night, when the diurnal birds were inactive.
+
+Groups of Ri'Dar lived together in communities known as _warrens_. Such social groups consisted of clusters of family _nests_, dwellings built using locally available materials and the species' relatively simple stone-based technology. Warrens were located in the middle levels of the canopy of Dar'Or's vast forests of waza trees, each tree constituting its own warren. Several trees, in turn, formed a city, a settlement that might have housed as many as a thousand inhabitants.
+
+Settlements thus served as the backdrop for Ri'Dar life, which, due to the primates' high metabolisms, included a disproportionate amount of time eating. Such behavior sometimes prompted non-Ri'Dar to paint the flying sentients as gluttons. Ri'Dar met and mated in such communities; copulation was preceded by mating dances particular to the species. Ri'Dar raised their offspring for the first few weeks after their birth, at which time the children were considered full members of the group and expected to fend for themselves with the spears, bows, and arrows characteristic of the species' technology. Ri'Dar at rest sometimes hung upside down, grasping a perch with their feet.
+
+Ri'Dar could learn to speak Basic, although at least for some, an accent caused /_S_/ sounds to come out as long hisses. On Dar'Or, the species wore little clothing save simple adornments like necklaces. Those members of the species who left their homeworld sometimes adopted clothing characteristic of many other spacefarers.
+
+## History
+
+The Ri'Dar evolved on Dar'Or, a low-gravity planet in the Dar'Or system. The species developed from non-winged primates with lanky limbs and prehensile tails who lived in the branches of their planet's trees. Over time, the world's multi-tiered [[waza tree]] ecosystem fostered the development of wings, which allowed the ancestral Ri'Dar to better access the fruits, berries, nuts, and fungi upon which they subsisted. From arboreal climbers, the Ri'Dar became aerial gliders, and from aerial gliders they became true fliers. Meanwhile, their tails flattened into ailerons to better steer them while airborne. Simultaneously, the presence of the [[sabretoothed indola]] encouraged the Ri'Dar brain to evolve as well. The species mastered the use of tools; spears and arrows became a means of defending their warrens against predators.
+
+After the world was visited by travelers from beyond the system—an event that occurred by 3959 BBY—Dar'Or and its system became part of the Jospro sector in the Outer Rim Territories. From 3,959 to 3956 BBY, during the Jedi Civil War, the world fell within the domain of Darth Revan's Sith Empire, but from 1004 to 1000 BBY, during the New Sith Wars, it remained controlled by the Galactic Republic. The Ri'Dar homeworld fell into Separatist space as the Clone Wars raged, and was more commonly labeled OM973 on Imperial star-charts in the times of the Galactic Empire. At some point in the latter years of the Galactic Republic or the early years of the Galactic Empire, the Ri'Dar's environment was drastically altered when offworld ecologists relocated the predatory [[elix bird]] to Dar'Or in a bid to save it from extinction when its own world's star went supernova. The bird's home planet had a gravity 1.1 times standard. As a result of Dar'Or's relatively low gravity, they became even more adept at flying and killing prey in midair. The Ri'Dar soon learned that the birds considered them to be a source of food.
+
+In combination, the dual threat posed by the indola and elix severely depressed the Ri'Dar population on Dar'Or. The sentient primates only escaped extinction due to their high birth rate. They completely shifted their hunting and gathering activities to night, when the elix was less active. Meanwhile, the Empire named Dar'Or an Imperial Species Preservation Zone, a designation that limited travel to and from the planet. Nevertheless, [[elix meat]] was considered a delicacy among galactic gourmands, and indola were in demand among those who collected and trained animals, so smugglers visited Dar'Or clandestinely to capture cargoes of such beasts for sale. Spacers speculated that the Empire's concern for environmental preservation was only a cover, and that the true reason for the Imperial blockade of Dar'Or was entirely different. Whatever the truth of such rumors, the Imperial sentientologist Obo Rin included an entry on the Ri'Dar in both editions of his _Catalog of Intelligent Life in the Galaxy_, a project commissioned by the Sith Lord Darth Vader to detail those sentient species of most interest to the Empire. Emperor Palpatine kept at least one datacard with information about the Ri'Dar's mating dances in his storehouse in Mount Tantiss on the planet Wayland. By 137 ABY, the Ri'Dar homeworld had fallen into territory controlled by the Sith Lord Darth Krayt as part of his Galactic Empire.
+
+## Ri'Dar in the Galaxy
+
+Despite their natural timidity and forced seclusion from the galaxy, Ri'Dar eagerly left their homeworld to explore—often on a whim—when given the opportunity. Once smugglers began to trade in elix and indola, some Ri'Dar were able to escape Dar'Or on visitors' freighters. Such Ri'Dar usually filled the role of pet or servant to smuggling teams. More rarely, they proved themselves useful and were considered full members of the crew.
+
+Over time, the number of Ri'Dar in the galaxy grew substantially. After the novelty of having a Ri'Dar on board wore off, though, more and more freighter crews marooned their Ri'Dar passengers at port, forcing them to find their own way in the galaxy. Other problems faced by the species away from Dar'Or were their inability to fly on worlds with standard gravity or higher and their tendency to develop profound homesickness away from their warren.
+
+Due to their first non-Ri'Dar contacts being members of the galactic fringe, many Ri'Dar-at-large took on criminal occupations of their own. In 8 ABY, one such Ri'Dar managed a gambling hall in the upper levels of the Underworld, a portion of the planet Coruscant known for its clubs and nightlife. When the Jedi Knight Luke Skywalker came asking about a Human named Han Solo, who had gambled there previously, the Ri'Dar agreed to show him the security tapes after the Jedi offered a bribe. The Ri'Dar identified Solo's sabacc opponent as a [[Drackmarian]] named Omogg for another furtive handout. Other Ri'Dar capitalized on their keen senses to find work as snipers. In its campaigns against the Galactic Empire, the mercenary group known as Churhee's Riflemen gladly accepted Ri'Dar members due to the species' superb long-range vision.

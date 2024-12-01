@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 16,
+  "translucency": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "AurebashCanonFont"
+  ]
+}

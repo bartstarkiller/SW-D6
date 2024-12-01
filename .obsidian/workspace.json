@@ -1,0 +1,528 @@
+{
+  "main": {
+    "id": "2e8af0ed83ac71da",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bf2775e23d98b7c",
+        "type": "tabs",
+        "dimension": 77.58164165931156,
+        "children": [
+          {
+            "id": "e4cb255e5df341fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6f74a44763370eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Building/Sentient Species.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sentient Species"
+            }
+          },
+          {
+            "id": "24dde9198d4ebf39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A _ GALAXY MAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A _ GALAXY MAP"
+            }
+          },
+          {
+            "id": "6dd12bdb6e80d6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sentient Species/Ongree.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ongree"
+            }
+          },
+          {
+            "id": "035d932a6ac85bed",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "c4d390e273c6b1d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sentient Species/Gank.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gank"
+            }
+          },
+          {
+            "id": "257d5898ebad85b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sentient Species/Kushiban.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kushiban"
+            }
+          },
+          {
+            "id": "0198d7ee41e788a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "J. Naboo Character Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "J. Naboo Character Sheet"
+            }
+          },
+          {
+            "id": "684b92d6d87b487c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1D.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1D"
+            }
+          },
+          {
+            "id": "1d5b0685da136348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Building/Edges and Burdens.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Edges and Burdens"
+            }
+          },
+          {
+            "id": "3ce5ad3d2ec9442d",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "dbef76535cfa9e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Y_ Goods and Services/Goods/Equipment and Gear/Weapons/Ranged/Blasters/Pistols/Blaster Pistols/Merr-Sonn Model 44.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Merr-Sonn Model 44"
+            }
+          },
+          {
+            "id": "4b258edccf2172e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vehicles/Space/Starfighter/Hornet Interceptor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hornet Interceptor"
+            }
+          },
+          {
+            "id": "19ed6c75f2e91660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vehicles/Space/Freighter/YT-2000 Transport.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YT-2000 Transport"
+            }
+          },
+          {
+            "id": "10e30cb04517e052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vehicles/Space/Capital Transport/Eliall Container Ship.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eliall Container Ship"
+            }
+          },
+          {
+            "id": "1f94f36f36e7628a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vehicles/All Factions/Empire/Capital/Executor-class Super Star Destroyer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Executor-class Super Star Destroyer"
+            }
+          },
+          {
+            "id": "056650afff19b10f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Wampa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wampa"
+            }
+          }
+        ],
+        "currentTab": 16
+      },
+      {
+        "id": "c1cf788481015aba",
+        "type": "tabs",
+        "dimension": 22.41835834068844,
+        "children": [
+          {
+            "id": "d356bbee91a4ec64",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Creatures/Wampa.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.035738165181834675,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Wampa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a33d62ef2766324",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d917ca0a4fdf52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d58b447954419a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "13721b974fb0cb9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3ca61673b43711bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "79932658689064ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d30d3c6d570b2887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcddc826d34721aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sentient Species/Tuhgri.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tuhgri"
+            }
+          },
+          {
+            "id": "90aba8ddf9d1f76d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sentient Species/Tuhgri.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tuhgri"
+            }
+          },
+          {
+            "id": "455da41c11182352",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a856470df0f98e88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sentient Species/Tuhgri.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tuhgri"
+            }
+          },
+          {
+            "id": "9ad685dadd9bc715",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "26f99912be4e9a74",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dice-roller-icon",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "174a0276c9fd83e3",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "0f6497f49f7d9c83",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "056650afff19b10f",
+  "lastOpenFiles": [
+    "Creatures/Ssamb.md",
+    "Creatures/Hydroid Medusa.md",
+    "Creatures/Heklu.md",
+    "Creatures/Ghostling.md",
+    "Characters/Captain Raymus Antillies.md",
+    "Characters/The Hunt/Dezono Qua.md",
+    "Characters/The Hunt/Not Yet Determined Adversary.md",
+    "Characters/The Hunt/That Fat Twi'lek Senator.md",
+    "Characters/The Hunt/Sorc Tormo.md",
+    "Character Building/Sentient Species.md",
+    "Character Building/Vehicles.md",
+    "Character Building/Organizations.md",
+    "Character Building/Modifying Armor, Equipment, and Weapons.md",
+    "Character Building/Guide to Using this Holocron.md",
+    "Character Building/Goods and Services.md",
+    "Character Building/Edges and Burdens.md",
+    "Character Building/Attributes and Skills.md",
+    "Character Building/1. Creating Your Character.md",
+    "Blasters.md",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Utility/Yorik-stronha Spy Ship.md",
+    "ZZ_Pasted + Images/Pasted image 20241130004123.png",
+    "Vehicles/All Factions/CIS/Transport/C-9979 Landing Craft.md",
+    "Vehicles/All Factions/CIS/Transport/Trade Federation Armed Freighter.md",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Yorik-vec Assault Cruiser.md",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Starfighter",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Capital/Viscount Star Defender.md",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Transport",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Utility",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Frigate",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Untitled.canvas",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Corvette",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Capital",
+    "ZZ_Pasted + Images/Pasted image 20241130003610.png",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Capital/Mon Calamari Super Star Cruiser.md",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Capital/Defender Star Destroyer.md",
+    "ZZ_Pasted + Images/Pasted image 20241130003217.png",
+    "ZZ_Pasted + Images/Pasted image 20241130002945.png",
+    "ZZ_Pasted + Images/Pasted image 20241130002741.png",
+    "ZZ_Pasted + Images/Pasted image 20241130002550.png",
+    "ZZ_Pasted + Images/Pasted image 20241130002340.png",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Capital",
+    "ZZ_Pasted + Images/Pasted image 20241130002103.png",
+    "ZZ_Pasted + Images/Pasted image 20241130001924.png",
+    "ZZ_Pasted + Images/Pasted image 20241130001713.png",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Frigate",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Utility",
+    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Corvette",
+    "Aurebesh/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

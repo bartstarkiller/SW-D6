@@ -1,0 +1,1 @@
+Sith and Nightsister practiced, Jedi practiced in revivifying synthetic crystals, early weaponry, and possibly as a form of life-giving to the lightsaber crystal that chose them. 

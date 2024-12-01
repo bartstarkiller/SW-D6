@@ -1,0 +1,4 @@
+ The Shadowfeed Network was a secret Confederate analogue to the HoloNet, used to distribute propaganda to the galaxy. It was also used as a means to allow Confederate leaders to transmit untraceable and untappable messages to their subordinates, making the Banking Clan an invaluable member of the Confederacy.
+ 
+%% If any portion existed post Empire, it could be invaluable to Rebels as a resource 
+Capturing nodes, codes, and broadcast / reciever tech would be a feat saving the galaxy tier. A Republic intelligence operative, former Seperatist communications architect, or an Imperial Crypto agent might be needed to know about this. Criminal enterprises would also be intersted- Perhaps Maul's syndicate and the Hutts had access to these, unless their communications were smaller and relied on local transmissions / pirate stations.%%

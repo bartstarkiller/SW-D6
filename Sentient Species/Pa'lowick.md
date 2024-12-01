@@ -1,0 +1,77 @@
+![[Pasted image 20240407041650.png ]] ![[Pasted image 20240508070606.png]]
+Pa'lowick{.Aurebash}
+
+Home Planet: [[Lowick]]
+**Attribute Dice: 10D**
+##### DEXTERITY 1D/4D
+##### KNOWLEDGE 1D+2/4D+2
+##### MECHANICAL 2D/4D
+##### PERCEPTION 2D/4D+2
+##### STRENGTH 2D/4D
+##### TECHNICAL 1D/4D
+**Move: 7/10**
+**Size: 0.9-1.8 meters**
+
+> [!_2] 
+> **Special Abilities**
+> > **Natural Swimmers:** Pa'lowick gain +2D to *swimming*.
+> 
+> > **Powerful Voices:** The large and powerful lungs of a Pa'lowick combine with their resonant snoot to create a riveting singing voice the likes of which many in the galaxy have not heard equaled- Pa'lowick gain +2D to vocal performances.
+> 
+
+The Pa'lowick are diminutive amphibians from the planet Lowick. They have plump, bulbous bodies and long, frog-like arms and legs. Their smooth skin is a mottled mixture of greens, browns and yellows. Males tend to have more angular patterns running along their arms and backs than females. The most distinctive feature of a Pa'lowick-to hu- mans is the astoundingly human-like lips, which lie at the end of a very inhuman, trunk-like snout. Lowick is a planet of great seas and mountainous continents. The Pa'lowick themselves are from the equatorial region of their world, which is characterized by marshes and verdant rain forests. Their long legs allow them to move easily through the still waters of the coastal salt marshes in search of fish, reptiles and waterfowl. A particular delicacy are the large eggs of the marlello duck, which the Pa'lowick consume by thrusting their snouts through the shell and sucking the raw yolk down their gullets.
+
+*Source: Alien Encounters 1e*
+
+#Palowick #Lowick #hold_breath #swimming_skill #moist #pollution_weakness
+
+#swamp #salt_marsh #rainforest 
+
+## Overview
+The **Pa'lowick** were a species of sapient amphibians hailing from the Outer Rim planet of Lowick. They were divided into two main subspecies, both of which shared the same physical traits suited to their semiaquatic habitat: rotund bodies, slender limbs, eyes that rested on stalks, well-developed lungs, and a proboscis that terminated in a pair of Human-like lips. The major variation between the groups was in the pair of tusks lying under the trunk; these fell out in one species by middle age but remained with the other throughout their lives. Scientists speculated that this was because the tusked variety lived in an area populated by higher densities of predatory life.
+
+A shy and primitive race that held their traditions dear, the Pa'lowick enjoyed off world contact, eagerly accepting any technology that helped them better accomplish their tasks in the traditional way. Storytelling and song were integral parts of their culture, with songs written for both spirituality and enjoyment. Much of their history was passed down by song; written language arose relatively late in their development. Most members of the species lived as farmers, serving a noble class of royal families.
+
+In the years since their first encounter with Galactic Republic miners searching for the Pa'Lowick system's legendary firegems, the Pa'lowick remained little known away from their homeworld. This changed when Larisselle Chatrunis was crowned Miss Coruscant in 22 BBY and began a successful singing career. Nevertheless, their world remained isolated, first by an Imperial blockade, then by a lack of diplomatic interest from the New Republic. During the Yuuzhan Vong War, however, the invaders paid a visit, destroying Lowick's farming machines in the process. The crops themselves survived the assault, and the planet quickly recovered after the hostilities ceased.
+
+Among the other famous members of the race were Sy Snootles, lead singer of the Max Rebo Band; and Aneesa Dym and her father, owners of _Dusty Duck_.
+
+## Biology and Appearance
+
+Pa'lowick were humanoid amphibians adapted to the peaceful salt marshes of their coastal habitat. Their compact, globular midsections sat atop thin, gangly legs that ended in anisodactylic feet—three toes pointing forward, one back. This configuration allowed them to swiftly navigate still waters, while powerful lungs in a strong chest helped them swim. Their slender arms ended in hands with four digits: three fingers and an opposable thumb. Pa'lowick sometimes exhibited sharp claws, other times smooth fingertips; in fact, the same individual could display both states at various times. Large, well-developed lungs and a buoyant air bladder made Pa'lowick adept swimmers; deflating the air bladder made room for the lungs to overinflate into the abdomen and permitted them to hold their breath for long periods. With their eyes at the end of short stalks, Pa'lowick could hide under water and keep watch for predators. The species had moist, smooth skin with patterns of brown, green, yellow and blue that blended in with their swampy environment. Skin markings varied by individual; male Pa'lowick sported angular shapes, while females showed more rounded mottling. Due to their amphibious nature, Pa'lowick were most comfortable in moist conditions; arid environments harmed their skin, nose, and throat. They were also particularly susceptible to air pollution. Over a few weeks, however, a Pa'lowick could adjust to such conditions.
+
+The most prominent feature of the Pa'lowick physiology was a 30-centimeter, prehensile, expressive, tubular snout that ended in pair of Human-like lips. In younger Pa'lowick, two sharp, retractable, upward-pointing tusks—handy weapons should the Pa'lowick be attacked—protruded from a second mouth at the base of this mouth-stalk. The second mouth was larger and wider than the one at the end of the snout and allowed growing, energy-hungry Pa'lowick to eat more food. As a Pa'lowick entered maturity, the need for this extra nutrition subsided; in most members of the species, the tusks fell out, and flesh overgrew the second mouth, causing it to completely disappear and be reabsorbed by middle age. However, in one group, the second mouth and tusks persisted throughout the Pa'lowick's life. Scientists speculated that this subspecies was the older of the two, but genetic experiments proved inconclusive. There was certainly evolutionary pressure on these Pa'lowick to keep their tusks, as they lived in an area with a greater concentration of dangerous fauna.
+
+The average Pa'lowick stood 1.6 meters tall with a weight of 48 kilograms. The species exhibited a great range of heights; some members were as short as 0.9 meters while others grew as tall as 1.8 meters. Much of their bulk was a result of their air bladders and lungs. 
+
+Pa'lowick were oviparous, and females tended to their eggs until they hatched. Pa'lowick entered puberty at age 12. Adulthood began at age 17, and middle age at 45. Life expectancy for the species was 75 years.
+
+## Society and Culture
+
+The Pa'lowick lived in numerous large, independent communities spread throughout the equatorial regions of their homeworld, Lowick, sheltered by roofed, nestlike homes of grass, mud, and reeds. These groups followed a feudal system of government, with a complex but adaptive system of nobility determining the ruling families. Most Pa'lowick toiled as peasant farmers, while others served as fishers, hunters, and storytellers. They were natural scavengers, and most Pa'lowick supplemented their lifestyle by hunting and gathering. The long Pa'lowick snout and the tongue inside were perfectly adapted to piercing giant [[marlello duck eggs]] and slurping down the yolk, a Pa'lowick favorite. [[Veeji fruit]] was another popular food; it grew abundantly in the rain forest year round. Other Pa'lowick food sources were fish, reptiles, and water birds found in their marshy habitat. Children were raised and educated by the community.
+
+To the Pa'lowick, songs and stories were not only the height of entertainment, they were sacred aspects of the species' heritage. Pa'lowick music ran the gamut of genres and subjects, although religious music was particularly common. Cultural heritage, such as history, genealogy, and parables, was largely passed down orally. Every Pa'lowick community had a dedicated storyteller; the esteem afforded this individual made the position a coveted one. Large lungs made the Pa'lowick hearty singers and afforded at least some members of the species the ability to scream loudly and disarm opponents in combat.
+
+Although those Pa'lowick who kept their tusks through life were overall more aggressive, the Pa'lowick were shy and patient creatures of ritual and habit who stood by their traditions and customs in the face of outside contact. Nevertheless, they were not completely hidebound; Pa'lowick were friendly to outsiders and fascinated by the advanced technology they brought. The beings eagerly adopted those items that increased their productivity—provided such devices did not disrupt their traditions. Nevertheless, their world had little to offer the galaxy at large, so offworld contact was rare. Their overall level of technology remained largely feudal in nature with only a few choice bits of higher tech in general use. With the Pa'lowick Larisselle Chatrunis's win of the Miss Coruscant pageant in 22 BBY and her subsequent singing career, recorded Pa'lowick music came into demand across the galaxy and on the HoloNet. Foodstuffs (especially the popular veeji fruit), primitive crafts, and recorded music were Lowick's major exports.
+
+The native language of the Pa'lowick was called Lowickese. When the species first came into contact with offworlders, the tongue had no written form. Pa'lowick scholars adopted the Basic alphabet, and over the years, most Pa'lowick became literate in Lowickese. Written Lowickese looked like pure nonsense to outsiders. The Pa'lowick vocal apparatus allowed them to speak Basic with ease.
+
+## History
+
+The Pa'lowick hailed from the planet Lowick, in the Pa'Lowick system, part of the Calaron sector in the Outer Rim. The planet was made up of vast seas and rugged, mountainous land masses. In the equatorial climes, mountains gave way to the humid swamps and vibrant, green rain forests in which the Pa'lowick evolved. Over time, the species spread throughout the equatorial region and splintered into independent communities. A complex system of nobility developed, and the species advanced to a feudal level of technology with peasant agriculture as the backbone of the social order.
+
+Sometime between 1000 BBY and 32 BBY, spacefaring miners became the first outsiders to visit Lowick. In the system's asteroid belt, the miners found a type of gemstone whose volatility caused it to explode when exposed to various types of radiation. The discovery had obvious applications in demolitions and mining, and a steady flow of prospectors was soon making regular stops in the system to gather what became known as Lowickan firegems. Traders arrived as well, selling the Pa'lowick advanced galactic technology in exchange for foodstuffs. Despite their natural conservatism, Pa'lowick communities traded for advanced items that seemed useful but did not pose a threat to their traditional way of life, such as automated harvesting machinery. Meanwhile, Larisselle Chatrunis won the Miss Coruscant pageant in 22 BBY and embarked on a successful singing career, bringing the Pa'lowick to the galactic eye and ear. By the time of the Clone Wars, Lowick had been swallowed up into the expanding borders of Hutt Space.
+
+After the fall of the Old Republic, the Galactic Empire was eager to monopolize extraction of firegems and established a blockade of the Pa'Lowick system, which by this point was once again independent of Hutt Space. The Empire deemed Lowick itself to be mostly useless, and the Pa'lowick were spared the horrors of enslavement and forced labor. Upon the conclusion of the Galactic Civil War, a few Pa'lowick nobles flirted with joining the New Republic, but innate disinterest in politics and a lack of any diplomatic overtures from the galactic government stopped their plans from coming to fruition. After years of relative peace, Lowick was invaded by the Yuuzhan Vong during the Yuuzhan Vong War. The aggressors destroyed the automated harvesting machines used by Pa'lowick farmers, but they left the crops themselves unmolested. When the hostilities drew to an end, the Pa'lowick were thus relatively hale and hearty and able to quickly recover their place in the galactic economy. The Shi'ido anthropologist Mammon Hoole included an entry on the Pa'lowick in his publication _The Essential Guide to Alien Species_, which he published at some point during the rule of New Republic. By 137 ABY, Lowick had become a Hutt Dependency.
+
+## Pa'lowick in the Galaxy
+
+Most Pa'lowick were content to remain on Lowick, set up a "nest," and leave the rest of the galaxy to mind its own affairs. Still, some made it off their homeworld, often lured by wondrous tales told by strangers from distant worlds. With nothing but a primitive, slow-paced life behind them, such Pa'lowick often proved naïve wanderers and easy marks; after only a little time abroad, they could easily find themselves creditless and forced to take up less-than-savory vocations to survive. It was not uncommon to find Pa'lowick living as beggars, criminals, or even slaves. Still, some members of the species managed to establish a niche as fringers, scouts, and smugglers. As early as 32 BBY, the Pa'lowick Aneesa Dym and her father had made a name for themselves as smugglers on Nar Shaddaa in their ship the _Dusty Duck_,Sam Snootles lived and worked on Coruscant as early as 22 BBY, and the proboscis-like vocoder of the [[SP-4 Analysis Droid]] suggested that a Pa'lowick had a hand it its design.
+
+**Gallery**
+![[Pasted image 20240509032230.png]]
+
+![[Pasted image 20240509182925.png]]
+%% Larisselle Chatrunis
+**Larisselle Chatrunis** stole the show at the Miss Coruscant beauty pageant with her incredible singing voice and her impressive awareness of galactic affairs despite the fact that her homeworld of Lowick was only recently introduced to the galactic stage. After winning the pageant Larisselle toured the galaxy as her music made her famous. Once Emperor Palpatine rose to power and instituted the Galactic Empire, new xenophobic policies cost non-humans such as Larisselle their livelihoods. Chatrunis subsequently joined the Rebel Alliance, determined to use her fame and talents in order to help end Palpatine's tyrannical reign and restore freedom to fellow discriminated aliens. Under the guise of a simple singing troupe, Larisselle served the Alliance undercover, stealing Empire secrets and passing them on to key members in the Rebellion. Fueling HoloNet rumors of a diva feud between herself and Sy Snootles—the "other" singing Pa'lowick star—Larisselle used the staged rivalry to distract the authorities from her true treasonous actions. Larisselle served the Rebellion throughout the Galactic Civil War and was able to see that her efforts paid off when the Empire fell and Palpatine was slain at the Battle of Endor. Following the restoration of peace to the galaxy, Larisselle retired to Lowick, returning to the peaceful Pa'lowick life, surrounded by loved ones, where she lived out the rest of her days.
+%%

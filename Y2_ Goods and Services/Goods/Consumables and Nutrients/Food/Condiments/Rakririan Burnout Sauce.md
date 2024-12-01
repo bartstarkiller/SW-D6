@@ -1,0 +1,1 @@
+A common Rakririan export to the galaxy was their Rakririan Burnout Sauce. Extremely spicy, most sentients used it only in trace quantities to avoid potential side effects, such as burns to the mouth and throat. The Jedi Knight [[Plo Koon]] was known to use Burnout Sauce.

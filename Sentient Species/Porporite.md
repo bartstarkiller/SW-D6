@@ -1,0 +1,10 @@
+![[Pasted image 20240524031644.png]]
+
+The Porporites were native to the [[Porpor]] system, located in the [[Grohl sector]] and the general vicinity of the [[Naps Fral Cluster]] in the Outer Rim Territories. They were first introduced to the Galactic Republic shortly after the Great Hyperspace War, which ended in 4,990 BBY. Some time after this, [[Ryll Spice]] was discovered on the planet [[Ryloth]]. The [[Neimoidian]] species gained exclusive distribution rights and introduced the spice to the Porporites. The drug induced homicidal rage in Porporite users, and widespread addiction to the substance swept through the Porporite population. The formerly peaceful species was transformed into violent maniacs and started assaulting other planets. Faced with waves of maddened Porporites, the Republic asked the [[Jedi Order]] for assistance. The Jedi intervened, fighting alongside newly commissioned Juggernaut war droids, but had little success in placating the Porporites.
+
+Concerned neighboring species of the Porpor system and various other factions responded to this threat by hiring [[Gank]] mercenaries, also known as Gank Killers, to protect them and to eliminate the Porporites. In 4800 BBY, the Ganks exterminated the entire Porporite species—only to continue their rampage in a full-scale war against the Republic. That war, later known as the Gank Massacres, was eventually put down by the Jedi Order.
+
+_The New Essential Chronology_, a book published by the New Republic's Historical Council under the Galactic Federation of Free Alliances, was published after 36 ABY and mentioned information on the Porporites. The work expounded on the species' role around the time of the Gank Massacres, including the ryll spice incident.
+
+![[Pasted image 20240524031751.png]]
+**Juggernaut War Droid**

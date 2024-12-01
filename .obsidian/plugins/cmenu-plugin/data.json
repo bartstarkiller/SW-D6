@@ -1,0 +1,88 @@
+{
+  "aestheticStyle": "default",
+  "menuCommands": [
+    {
+      "id": "cmenu-plugin:editor:toggle-bold",
+      "name": "cMenu: Toggle bold",
+      "icon": "bold-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-italics",
+      "name": "cMenu: Toggle italics",
+      "icon": "italic-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-strikethrough",
+      "name": "cMenu: Toggle strikethrough",
+      "icon": "strikethrough-glyph"
+    },
+    {
+      "id": "cmenu-plugin:underline",
+      "name": "cMenu: Toggle underline",
+      "icon": "underline-glyph"
+    },
+    {
+      "id": "templater-obsidian:z_Templates/0. Species Entry.md",
+      "name": "Templater: Insert z_Templates/0. Species Entry.md",
+      "icon": "templater-icon"
+    },
+    {
+      "id": "templater-obsidian:z_Templates/Aurebash Canon.md",
+      "name": "Templater: Insert z_Templates/Aurebash Canon.md",
+      "icon": "templater-icon"
+    },
+    {
+      "id": "obsidian-text-format:remove-citation-index",
+      "name": "Text Format: Remove citation index",
+      "icon": "a-large-small"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-blockquote",
+      "name": "cMenu: Toggle blockquote",
+      "icon": "quote-glyph"
+    },
+    {
+      "id": "cmenu-plugin:codeblock",
+      "name": "cMenu: Toggle codeblock",
+      "icon": "codeblock-glyph"
+    },
+    {
+      "id": "editor:toggle-comments",
+      "name": "Toggle comment",
+      "icon": "lucide-percent",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "/"
+        }
+      ]
+    },
+    {
+      "id": "editor:set-heading-5",
+      "name": "Set as heading 5",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "obsidian-text-format:merge-line",
+      "name": "Text Format: Merge broken paragraph(s) in selection",
+      "icon": "wrap-text"
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-tag",
+      "name": "cMenu: Add tag",
+      "icon": "price-tag-glyph"
+    },
+    {
+      "id": "obsidian-text-format:remove-url-link",
+      "name": "Text Format: Remove URL links format in selection",
+      "icon": "link-2-off"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 7
+}

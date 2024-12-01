@@ -1,0 +1,2 @@
+
+Dexterity AND Mechanical checks that must be attempted as a multi-action for a penalty, PLUS sometimes technical repair checks to adjust settings in flight or conduct in the moment repairs (a la anakin) .

@@ -1,0 +1,65 @@
+![[Pasted image 20241129235546.png]]
+Craft: **Rebel Assault Frigate**
+Affiliation: Rebel Alliance
+Era: Rebellion
+Type: Modified Dreadnaught
+Scale: Capital
+Length: 700 meters
+Skill: Capital ship piloting: assault frigate
+Crew: 4,882, gunners: 118, skeleton: 1,500/+20
+Crew Skill: Capital ship gunnery 4D+2, capital ship piloting: Assault Frigate 5D, capital ship shields 4D, sensors 3D
+Passengers: 100(troops)
+Cargo Capacity: 7,500 metric tons
+Consumables: 1.5 years
+Cost: Not available for sale
+Hyperdrive Multiplier: x2
+Hyperdrive Backup: x12
+Nav Computer: Yes
+Maneuverability: 1D+2
+Space: 6
+
+**Systems**
+> [!_1] Defenses
+> Hull: 5D
+> Shields: 3D
+
+> [!_1] Sensors
+> Passive: 20/1D
+> Scan: 40/2D
+> Search: 80/3D
+> Focus: 5/3D+2
+
+> [!_1] Complement
+> > **Starfighter Complement:** 20 Starfighter scale craft at a time may dock, but none may be carried through hyperspace. A modified Assault Shuttle may be carried through hyperspace atop the superstructure.
+
+**Weapons**
+> [!_3] 15 Laser Cannons
+> Fire Arc: 5 front, 5 left, 5 right
+> Crew: 1(4), 2(8), 3(3)
+> Skill: Capital ship gunnery
+> Fire Control: 3D
+> Space Range: 1-3/12/25
+> Atmosphere Range: 100-300/1.2/2.5 km
+> Damage: 2D
+
+> [!_3] 20 Quad Laser Cannons
+> Fire Arc: 8 front, 6 left, 6 right
+> Crew: 3
+> Skill: Capital ship gunnery
+> Fire Control: 2D
+> Space Range: 1-5/10/17
+> Atmosphere Range: 100-500/1/1.7 km
+> Damage: 4D
+
+> [!_3] 15 Turbolaser Batteries
+> Fire Arc: 5 front, 5 left, 5 right
+> Crew: 1(8), 3(7)
+> Skill: Capital ship gunnery
+> Fire Rate: 1/3
+> Fire Control: 1D
+> Space Range: 3-10/30/60
+> Atmosphere Range: 300-1/3/6 km
+> Damage: 7D
+
+
+*Source: Rebel Alliance Sourcebook (pages 57-59), Heir to the Empire Sourcebook (page 120), The Thrawn Trilogy Sourcebook (page 211)*

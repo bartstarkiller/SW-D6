@@ -1,0 +1,318 @@
+{
+  "userAdmonitions": {
+    "Threepio_Gold": {
+      "type": "Threepio_Gold",
+      "color": "213, 174, 32",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " ",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Worshyyyr_Green": {
+      "type": "Worshyyyr_Green",
+      "color": "59, 247, 115",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " ",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Artoo_Blue": {
+      "type": "Artoo_Blue",
+      "color": "70, 135, 221",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " ",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Blue_Milk_Cyan": {
+      "type": "Blue_Milk_Cyan",
+      "color": "69, 209, 227",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " ",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Dathomirian_Red": {
+      "type": "Dathomirian_Red",
+      "color": "253, 63, 63",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " ",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Illum_White": {
+      "type": "Illum_White",
+      "color": "223, 233, 236",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " ",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Republic_Space": {
+      "type": "Republic_Space",
+      "color": "205, 35, 35",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Republic Space",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "CIS_Space": {
+      "type": "CIS_Space",
+      "color": "61, 148, 230",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "CIS Space",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Neutral_Space": {
+      "type": "Neutral_Space",
+      "color": "245, 245, 245",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Neutral Species",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "Rebel_Space": {
+      "type": "Rebel_Space",
+      "color": "203, 106, 26",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " Rebel Space",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Imperial_Space": {
+      "type": "Imperial_Space",
+      "color": "22, 212, 60",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Imperial Space",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Hutt_Space": {
+      "type": "Hutt_Space",
+      "color": "207, 185, 48",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Hutt Space",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "Character_Creation_Friendly": {
+      "type": "Character_Creation_Friendly",
+      "color": "14, 225, 39",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " ",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Character_Creation_Hostile": {
+      "type": "Character_Creation_Hostile",
+      "color": "255, 26, 37",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " ",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Character_Creation_neutral": {
+      "type": "Character_Creation_neutral",
+      "color": "234, 242, 246",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " ",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Species_Databank_Custom": {
+      "type": "Species_Databank_Custom",
+      "color": "11, 178, 249",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "  ",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Hapan_space": {
+      "type": "Hapan_space",
+      "color": "255, 15, 191",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " ",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "Indigo_Space": {
+      "type": "Indigo_Space",
+      "color": "151, 28, 253",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " ",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "_1": {
+      "type": "_1",
+      "color": "59, 247, 115",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAABlJREFUKFNj/P///38GEgDjqAYiQmtEhhIAGW8v3etu/YgAAAAASUVORK5CYII=",
+        "type": "image"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "_2": {
+      "type": "_2",
+      "color": "253, 63, 63",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAABlJREFUKFNj/P///38GEgDjqAYiQmtEhhIAGW8v3etu/YgAAAAASUVORK5CYII=",
+        "type": "image"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "_3": {
+      "type": "_3",
+      "color": "11, 178, 249",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAABlJREFUKFNj/P///38GEgDjqAYiQmtEhhIAGW8v3etu/YgAAAAASUVORK5CYII=",
+        "type": "image"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "_4": {
+      "type": "_4",
+      "color": "242, 235, 44",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAABlJREFUKFNj/P///38GEgDjqAYiQmtEhhIAGW8v3etu/YgAAAAASUVORK5CYII=",
+        "type": "image"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "_5": {
+      "type": "_5",
+      "color": "216, 232, 233",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAABlJREFUKFNj/P///38GEgDjqAYiQmtEhhIAGW8v3etu/YgAAAAASUVORK5CYII=",
+        "type": "image"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.2.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.4fa1b8"
+}

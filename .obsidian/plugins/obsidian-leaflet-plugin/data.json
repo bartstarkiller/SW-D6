@@ -1,0 +1,682 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Obsidian",
+      "lastAccessed": 1728431445483,
+      "markers": [
+        {
+          "id": "ID_09f9e9291be9",
+          "type": "default",
+          "loc": [
+            -3.079020172357559,
+            3.709940060593656
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb5aeadaba9a",
+          "type": "default",
+          "loc": [
+            -1.63720703125,
+            3.355899473059867
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9c97a8b79b8",
+          "type": "default",
+          "loc": [
+            -1.32470703125,
+            -0.5374768805500869
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9b91a19bb1b",
+          "type": "default",
+          "loc": [
+            -2.34033203125,
+            -0.6000210790016522
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b39c8e86b89",
+          "type": "default",
+          "loc": [
+            -1.01220703125,
+            0.8072233861585718
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58e83aabcb7a",
+          "type": "default",
+          "loc": [
+            -2.44970703125,
+            1.104308328803508
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a997909fa9a",
+          "type": "default",
+          "loc": [
+            -2.52783203125,
+            -0.209119838679368
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a3bb9686b99",
+          "type": "default",
+          "loc": [
+            -1.27783203125,
+            -1.0534665177755025
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d84bfa789a6a",
+          "type": "default",
+          "loc": [
+            -0.90283203125,
+            0.4788663442878529
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_591ab8d8292a",
+          "type": "default",
+          "loc": [
+            -1.51220703125,
+            1.604661916416032
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a92af8c9faeb",
+          "type": "default",
+          "loc": [
+            -2.57470703125,
+            1.886110809448077
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_797bf8aab98a",
+          "type": "default",
+          "loc": [
+            -3.07470703125,
+            0.9010396838359203
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a3af9088bf8",
+          "type": "default",
+          "loc": [
+            -1.57470703125,
+            -0.27166403713093334
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08db9818196a",
+          "type": "default",
+          "loc": [
+            -2.19970703125,
+            2.2457399505445785
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a48c899a8a8",
+          "type": "default",
+          "loc": [
+            -3.26220703125,
+            2.277012049770362
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b5ae96a8acb",
+          "type": "default",
+          "loc": [
+            -2.93408203125,
+            -0.256027987518042
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b9a1979c979",
+          "type": "default",
+          "loc": [
+            -1.88720703125,
+            -0.209119838679368
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba195a7b4808",
+          "type": "default",
+          "loc": [
+            -1.41845703125,
+            1.0730362295777254
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bdbd8f8799a",
+          "type": "default",
+          "loc": [
+            -2.44970703125,
+            1.0417641303519427
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_388a6aaa799a",
+          "type": "default",
+          "loc": [
+            -2.15283203125,
+            0.6664989396425494
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bb96869dada",
+          "type": "default",
+          "loc": [
+            -1.79345703125,
+            1.2293967257066392
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19385bdb1b1b",
+          "type": "default",
+          "loc": [
+            -2.32470703125,
+            1.3388490729968785
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dad9684919f8",
+          "type": "default",
+          "loc": [
+            -2.30908203125,
+            0.8072233861585718
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8959f8594878",
+          "type": "default",
+          "loc": [
+            -2.48095703125,
+            0.650862890029658
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b09dbfa2838",
+          "type": "default",
+          "loc": [
+            -2.27783203125,
+            0.05669300473978556
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_792b783b2978",
+          "type": "default",
+          "loc": [
+            -1.51220703125,
+            1.9799271071254259
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f92bba6bd939",
+          "type": "default",
+          "loc": [
+            0.15966796875,
+            1.8235666109965116
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_788b2808a8a8",
+          "type": "default",
+          "loc": [
+            -0.16845703125,
+            0.11923720319135134
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbf9980a8989",
+          "type": "default",
+          "loc": [
+            0.08154296875,
+            1.839202660609403
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a198b3aa839",
+          "type": "default",
+          "loc": [
+            -0.62158203125,
+            2.9024540342860172
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d92b8aaa69aa",
+          "type": "default",
+          "loc": [
+            -0.26220703125,
+            3.4809878699629984
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9aea88f9496b",
+          "type": "default",
+          "loc": [
+            0.23779296875,
+            2.1519236528672305
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a79cbeb286b",
+          "type": "default",
+          "loc": [
+            1.00341796875,
+            2.4333725458992754
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59589b8b88d9",
+          "type": "default",
+          "loc": [
+            1.30029296875,
+            3.0119063815762566
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a58da088aea",
+          "type": "default",
+          "loc": [
+            1.59716796875,
+            1.8235666109965116
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b5ae98bfa68",
+          "type": "default",
+          "loc": [
+            1.48779296875,
+            0.2755976993202651
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bba959186b8a",
+          "type": "default",
+          "loc": [
+            0.83154296875,
+            -0.8501978728079145
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba8bdbcacb1b",
+          "type": "default",
+          "loc": [
+            1.00341796875,
+            -1.1003746666141765
+          ],
+          "layer": "%5BFeeorin.png%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Planets/Celanon.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 0,
+  "long": 0,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "id": "Galaxy_Map",
+    "lock": true,
+    "recenter": true,
+    "image": "https://hbernberg.carto.com/builder/6650a85d-b115-4680-ab97-721bf8a41a90/embed",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        1500,
+        2000
+      ]
+    ],
+    "lat": 0,
+    "long": 0,
+    "minZoom": 2,
+    "maxZoom": 8,
+    "defaultZoom": 3,
+    "zoomDelta": 0.5,
+    "unit": "miles",
+    "scale": 2.639,
+    "darkMode": false
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://hbernberg.carto.com/builder/6650a85d-b115-4680-ab97-721bf8a41a90/embed",
+  "defaultTileDark": "https://hbernberg.carto.com/builder/6650a85d-b115-4680-ab97-721bf8a41a90/embed",
+  "defaultAttribution": "https://hbernberg.carto.com/builder/6650a85d-b115-4680-ab97-721bf8a41a90/embed",
+  "defaultTileSubdomains": ""
+}

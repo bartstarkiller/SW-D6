@@ -1,0 +1,13 @@
+{
+  "ITS@@mini": false,
+  "ITS@@notion": false,
+  "ITS@@its-d": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@t-d": false,
+  "ITS@@default-statblock": false,
+  "ITS@@s-d": true,
+  "ITS@@slrvb-b": false,
+  "ITS@@ITS-Table-Styling": "tables-borders",
+  "ITS@@ITS-Table-Alt-Colors": "tables-alt-original",
+  "pathfinder-2e-statblocks@@layout-theme-basic": "basic-pathfinder-2e-layout-theme-default"
+}

@@ -1,0 +1,1 @@
+The growdi—also known as the growdi water organ and the growdi harmonique—resembled a combination of flute and water organ. A hose ran from the flute-like section to the base, upon which the player sat. The perch exuded moisture, which helped vivify the musician sitting there and keep him or her cool. The instrument came in both electronic and acoustic variants.

@@ -1,0 +1,87 @@
+![[Pasted image 20240514020820.png]]
+
+**Wookiepedia**
+
+## Overview
+The **Karazak Slavers' Cooperative**, also known as the **Karazak Slaver's Guild**, the **Karazak Slavers Cooperative** and the **KSC**, was a slaver guild in the galaxy active from the time of the Old Republic to the time of the New Republic. Based in the Karazak system, in the Sujimis sector of the Outer Rim Territories, it competed with other older important slaver cooperatives such as the Zygerrian Slavers Guild and the Thalassian slavers. The Karazak Slavers Cooperative was known to perform raids to capture bulk numbers of sentients at one time. They were known to seize a whole village, and then enslave them, thus having a potential workforce that could be sold as a whole. However, the cooperative had also performed other kinds of operations including the kidnapping and enslaving of specific individuals for blackmail purposes.
+
+The Karazak Slavers Cooperative was approved by the Galactic Empire, which participated in slavery, even if the Empire preferred to hire the Zygerrians for their slavery endeavors. Other groups, including the Old and New Galactic Republics, the Sector Rangers, the Mistryl Shadow Guards, and several independent groups including the Red Moon mercenaries, opposed the Cooperative and sometimes fought with them. The Hutts were generally neutral about the cooperative, sometimes negotiating with them and sometimes fighting with them for the control of resource-rich areas.
+
+## Organization
+
+%% The key to being a professional is *specialization*- and that is why I will not get involved in murder, robbery, or substances. I deal in sentients, alive, and at the highest qualities and prices.
+ -Kejani Tando, Lampbearer of the Slaver's Cooperative. %%
+
+The Karazak Slavers Cooperative specialized in all the areas of slavery, even if they refused to perform any other criminal act. They were responsible for numerous acts of kidnapping, slavery, violation of sentient rights, and illicit imprisoning and transport of unwilling citizens under pressure. Although they were especially violent during the captures, they were not known for using sadistic torture on their prisoners.
+
+In the time of the Galactic Empire, it was believed that the Karazak Slavers Cooperative included at least twelve thousand slavers, with more than 41 percent devoted to active participation in slave raids. The Cooperative was ruled by the little-seen twelve-sentient Central Coordinating Committee. The Cooperative's main competition was other specialized slaver groups with a longer history, mainly the [[Zygerrian Slavers Guild]] and the [[Thalassian Slavers]].
+
+Unlike other criminal empires, the Karazak Slavers Cooperative refused to use a centralized control over a geographical area. They instead infiltrated the target zone, and sometimes even shared the local resources with other criminals. However, if the competition became too heavy, or too aggressive, the Karazaks would rather move to more lucrative areas instead of putting up a fight. In fact, they even shared their main territory, the Karazak system, with one of their rivals, the less-organized Slaver Syndicate, which was controlled by the Karazak Slavers' traditional competitors, the Zygerrians. Beyond that, some local Karazak chapters had business relations with Hutt-controlled elements.
+
+The Cooperative used the alternative names Karazak Slaver's Cooperative, Karazak Slavers Cooperative, and Karazak Slavers' Cooperative as well as the acronym KSC. During the reign of the Galactic Empire, it also used the name Karazak Slaver's Guild.
+
+**Sentient Resources**
+
+The Karazak Slavers Cooperative mostly employed trained, devoted slavers from different areas of the galaxy. To them, slavery was a way of life, with some of the Karazak slavers being children and grandchildren of other Karazak slavers. The Karazaks claimed that only sentients determined to high excellence would be admitted in their ranks. In at least one case, this applied even if the sentient was not inclined to work for the Karazaks: Avril Gresh, already fleeing from the authorities, was kidnapped by the Cooperative, who threatened to turn him in, unless he joined their business.
+
+The KSC was known for the interest it invested in its employees. Slavers, even low-level ones, were told they would never stay jailed for more than thirty hours, with the KSC paying lawyers or bribes, or even arranging a jailbreak in the event of their imprisonment. Should the slaver die before their release could be arranged, then the Karazaks would support the slaver's family. Success in the Karazaks was rewarded with promotions and credits; however, repeated failure could be punished with slavery itself. Those policies gave the slavers an incentive to strive for perfection. The Karazak slavers thus became skillful professionals, obtaining notoriety outside the cooperative.
+
+**Career Specializations**
+
+The Karazak Slavers Cooperative divided the responsibilities and authorities of any slaving operation among different specialized experts. This reduced the impact on the operation should any of the slavers be captured. It also allowed careful planning, with most of the contingencies covered, and reduced the risks for the slaving team while increasing the economic profitability of each hit. Lastly, the Cooperative also used research teams that analyzed each of the areas, to improve their methodology. This careful planning was part of the Karazaks' reputation.
+
+Before an operation was even considered, the Karazak Slavers Cooperative sent an undercover acquisitions specialist, to consider the availability and quality of the potential slaves in an area, the threat that local law enforcement or military powers could pose, and the location of the community. When a potential customer requested the Cooperative kidnap a specific individual or small group—such as when [[Cantras Gola]], a planet member of the Pentastar Alignment, wanted to desert the Alignment and join the New Republic; the Alignment answered by hiring the KSC to kidnap the children of the ambassador of Cantras Gola, as a means of pressure for the planet and to blackmail the ambassador—the Cooperative used an acquisitions specialist to define the potential value and risk of the operation.
+
+The project developer perused the acquisitions specialist's report, and then transformed it into a viable slave raid. The developer, who had overall responsibility for the operation, coordinated the plans with strike team leaders, and later determined the exact moment when the strike would begin. There were precedents of operations in which the executive leadership of the Cooperative disagreed with the project developer about those two matters; apparently, at that stage of the operation, the developer had the final say, overriding the leadership's objections.
+
+A raid was performed by one or more strike teams that consisted of the so-called "acquisition agents." The agents were known to conduct their raids with military efficiency. The strike team leader chose the team members and assigned the responsibilities of each one. Any time a captive was damaged, the leader lost a portion of their profits.
+
+The logistics coordinator provided equipment for the strike teams—no matter the planetary environment of the raid—commonly in a very short time frame. The coordinator also had to take care of the captured slaves up to their sale, including feeding them, and was responsible for maintaining and then removing temporary bases.
+
+Finally, the distribution manager was the seller, finding potential buyers and moving the merchandise before the authorities could track it, and before the operation stopped being cost-effective. Sometimes, one distribution manager closed a single deal for the lives of thousands of sentients.
+
+**Products**
+
+The Karazaks Slavers Cooperative worked mostly in the Outer Rim Territories, but they were not shy about invading sectors officially controlled by the Galactic Empire or the New Republic. Acquisition agents often operated along major hyperlanes of the Outer Rim, but each successful raid gave them more confidence to operate closer to the Core Worlds. However, the Cooperative dealt only in slaves, without committing any other crime.
+
+Sometimes, the Cooperative also bought exotic prey from external agents. In the time of the Empire, dark Force-user Dahz Thulaka kidnapped victims on Starlyte Station, performed genetic modifications on them and, if they survived, sometimes sold them to the Karazak Slavers Cooperative. Although the Karazak Slavers Cooperative claimed to offer high-quality products, some customers such as Durga the Hutt disagreed. The slaves were not necessarily trained for submission; Slavemaster Greezim Trentacal, a member of the Cooperative, was attacked by his own slave, one that had spent a long time serving him.
+
+## History
+
+**Early Years**
+
+The Karazak Slaver's Guild had been active since before the Clone Wars, based in the Outer Rim system Karazak—which had always been famous for slavery activities. High-level slavery during that time was mostly under the control of two other guilds, the [[Zygerrian]] and the [[Thalassian]]. The Karazak newcomers created their own business opportunities by specializing in slavery to the highest bidder, as opposed to other groups that dealt in slaves and performed other crimes too, and by offering quality products—although Durga Besadii Tai considered Karazak's slaves to be sub-par.
+
+The Karazak Slavers staged organized ambushes in the Naps Fral Cluster, a common stop in the trade route from [[Ryloth]] to [[Nal Hutta]]. It was their goal to kidnap Twi'lek slaves, although their operations were mishandled and many prospective slaves were killed during their intended abduction. The Karazaks also attacked Ryloth, kidnapping and killing many Twi'leks. Due to this, at some point, Jabba Desilijic Tiure intervened and stopped the Karazaks, taking them away from Naps Fral. Since that time, the Twi'leks sacrificed some of their dancing women to the Hutts, in exchange for protection against the more damaging raids the Karazaks would have performed on Ryloth. At one point shortly before the year 214 BBY, the Cooperative purchased the enslaved crew of a Kett Shipping convoy from a group of Fujari pirates, who were operating in the Rseik sector.
+
+Soon before the Clone Wars, the Karazaks were already one of the most famous slavery operations in the galaxy. In 22 BBY, HoloNet News mentioned the Karazaks in an article mostly dealing with a Thalassian operation. The HoloNet estimates suggested that the combined slavery operations of the three greatest guilds in the Outer Rim exceeded billions of credits of profit, covered several galactic sectors and was boosted by the weak presence of the Old Republic in that area of the galaxy.
+
+Although the Old Republic had officially outlawed slavery, the government was unable to uproot the Karazaks or to stop the slavery in the Outer Rim. The Galactic Empire that replaced the Republic in 19 BBY later passed Imperial Decree A-SL-4557.607.232, allowing slavery; even then, the Karazaks and other slaver cooperatives mostly restricted their activities to the Outer Rim. The Empire studied the Karazaks in many a report, but they preferred to deal with the more famous Zygerrian Slavers.
+
+In the first days of the Empire, the Karazak slavers performed raids on landed vessels on Tatooine, although they did not seem to be particularly cost-effective. During one of these, while the slavers were supposed to capture living sentients, they killed a [[Tarnab]] merchant; the Tarnab's born-slave Swilla Corey took her chances and escaped.
+
+When the Zygerrian Slave Empire was resurrected by King Atai Molec following the Clone Wars, Molec's son, Prince Sono Molec, took control of the Zygerrian outpost on the planet Kowak. Kowak was converted into a slaver safe heaven, where various slaver organizations could resupply and refuel, as well as store and auction their captured slaves. In the decade that followed, members of the Karazak Slavers Cooperative actively used that staging point, eventually renting a temporary holding pen called Beta Encampment, located just outside of the walls of Prince Molec's Royal Palace.
+
+By the time between 2 BBY and 4 ABY, the Karazaks on Kowak were represented by trade baron Dorn Sevelle. Sevelle befriended Molec, and they would often bet on gladiator matches held inside the palace premises.
+
+During one such betting contest, Sevelle won possession of Molec's most prized gladiator, the Mandalorian Nam Beroya, nicknamed the "Prince's Sword." Imprisoning the man inside Beta Encampment, Sevelle tortured the man to satisfy his own sadistic pleasure. However, believing that the Mandalorian was more trouble than he was worth, Sevelle eventually decided to sell the fighter to the highest bidder among other slaver groups present on Kowak. However, unsatisfied with losing his best gladiator, Molec hired a group of Rebel agents—who had come to Kowak to find allies to help fight the upcoming Imperial invasion of their base on the planet [[Xorrn]]—to retrieve Beroya.
+
+**New Republic Era**
+
+The Galactic Civil War was a period of growth for the Karazak Slavers. Many populations changed their residence due to the conflict, and became easy prey during their exodus. At the same time, the war demanded a great amount of qualified and non-qualified workers. Although the New Republic was founded soon after 4 ABY, some of its supporters had also been supporters of slavery; as a result, the New Republic did not manage to end the Karazaks' and other Guilds' operations in the Outer Rim.
+
+The Karazak Slavers Guild kidnapped holovid star Janissa Locrin, wanting to blackmail her studio for a seven-digit ransom. At least three strike teams—Heksa, Sujir and Zjek team—sneaked into the high-security lands of the reclusive Locrin following a scheme developed by Seland' Ir. The operation was a success, although later one of the kidnappers, Iquar, was arrested by the Sector Rangers and unwittingly confessed Ir's role.
+
+In 8 ABY, the Karazaks recovered their previous ambush point in Naps Fral, no longer afraid of Jabba as he had died four years prior. It was believed that Karazak logistic coordinator Krassis Trelix performed the strikes from aboard his _Firespray_-class starship, alternatively known as _Indenture_ or _Salvation_ depending on the transponder code it was using at that point. Corellian pilot Fenig Nabon and her partner, con artist and Hutt counselor Ghitsa Dogder—on the orders of Durga the Hutt—found the _Indenture_ while transporting Twi'lek dancers from Ryloth to Nal Hutta. In a naval fight, the _Indenture_ was destroyed, with Trelix presumably aboard. Moreover, they performed an important con, releasing the Twi'leks and making Durga believe that they had been taken by the Karazaks. This, they thought, would lead to a gang war between the Karazak Slaver Cooperative and Durga's criminal interests. The Karazaks were still operative one or two years after this event.
+
+As of 9 or 10 ABY, the Karazaks had a base on [[Gabredor III]], under the control of slavemaster Greezim Trentacal and including more than two dozen slavers, four watchtowers with blaster cannons and orbital patrols of Z-95 Headhunters, as well as Trentacal's personal ship, _Atron's Mistress_. The Karazaks made a deal with the Pentastar Alignment, kidnapping the children of the ambassador of Cantras Gola to stop him from deserting to the New Republic along with his planet. The Alignment intended to kill and replace the ambassador as soon as it was politically possible, which would allow Trentacal to keep the slaves. At the same time, the Gabredor base still performed the usual slavery operations.
+
+The New Republic could not strike in Gabredor, clearly in Alignment territory, without risking an all-out war. Independent mercenary team Red Moons, led by Sully Tigereye, performed a rescue operation to find the children. During the skirmish and the alert of the base, Trentacal was attacked by his personal slave, and apparently both of them were killed. The mercenaries outwitted the security of slaver Vex"), killing him in the process, and rescued most or all of the slaves. They also destroyed the base and left markings so that the Karazaks would abandon the Gabredor base.
+
+## Known Members
+
+Known high-level members of the Karazak Slavers Cooperative included Yanix Dev, distribution manager; Avril Gresh, acquisitions specialist; Seland' Ir, project developer; Rei'Kas, strike team leader; Krassis Trelix, logistics coordinator; Greezim Trentacal, slavemaster; and Vex, security head and bodyguard.
+
+Dorn Sevelle was a trade baron and a high-ranking member of the group, who represented the Karazaks on Kowak during the early Galactic Civil War. A young, bearded human male from the planet [[Raithal]], Sevelle was originally a friend of Sono Molec. However, Sevelle's acquisition of Nam Beroya drove a wedge between the two. When hiring the Rebel agents to retrieve the Mandalorian from the Karazak's, Molec claimed that Sevelle was a thief who had stolen his most prized possession.
+
+Lower-level members included some of the strike team members involved in the Locrin operation, such as Fenrij, Greko, Iquar, and Keshid.
