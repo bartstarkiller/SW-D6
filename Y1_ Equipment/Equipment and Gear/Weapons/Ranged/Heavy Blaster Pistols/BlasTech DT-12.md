@@ -1,4 +1,4 @@
-![[Pasted image 20241021053755.png]]
+![[Pasted image 20241203151259.png]]
 
 Model: BlasTech DT-12 Heavy Blaster Pistol
 Type: Heavy blaster pistol
@@ -14,3 +14,7 @@ Damage: 5D+1
 >  Its large trigger makes it a preferred choice for those who lack hands like those of a human.
 
 *Source: Arms and Equipment Guide (page 10)*
+
+#stolen #swrpggm 
+
+![[Pasted image 20241021053755.png]]

@@ -1,3 +1,6 @@
+
+![[Pasted image 20241203151030.png]]
+
 ![[Pasted image 20241021052550.png]]
 
 Model: BlasTech DH-17 Blaster Pistol
@@ -14,3 +17,6 @@ Damage: 4D
 > Game Notes: A Difficult blaster repair roll allows the user to modify the weapon to fire in bursts. Only one 20-second burst can be fired after which the weapon is completely useless. For the duration of the burst, the shooter receives +3D to her blaster roll but cannot dodge.
 
 *Source: Star Wars Trilogy Sourcebook SE (pages 153-154), Arms and Equipment Guide (page 7)*
+
+
+

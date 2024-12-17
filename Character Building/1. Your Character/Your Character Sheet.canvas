@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "7b55d32d20a2f608",
+      "type": "text",
+      "text": "Paste a character template from the 'Character Templates' folder here, and get going with creating your first character!",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -60,
+      "y": -200,
+      "width": 260,
+      "height": 180,
+      "color": "2"
+    },
+    {
+      "id": "411af8a567c83642",
+      "type": "text",
+      "text": "The full rules for character creation are in [[1. Creating Your Character]]\nThat guide will walk you through it!",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -60,
+      "y": 20,
+      "width": 260,
+      "height": 180,
+      "color": "2"
+    },
+    {
+      "id": "00b455c9e6086e21",
+      "type": "text",
+      "text": "Character Templates are in different folders for each edition, or you can create your own with a blank one.\n\n[[Unfilled Character Sheet.canvas|Unfilled Character Sheet (Canvas)]]\n\n[[Unfilled Character Sheet (Text)]]\n\n[[1e Character Templates.canvas|1e Character Templates]]\n\n[[Hyperspace D6 Mix and Match.canvas|Hyperspace D6 Mix and Match]]\n\n",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -420,
+      "y": -170,
+      "width": 300,
+      "height": 410,
+      "color": "2"
+    },
+    {
+      "id": "ad9e230064fa0647",
+      "type": "text",
+      "text": "If you want an excellent read for more detail, the PDFs of the original editions are below:\n\n[[Star Wars D6 1e.pdf]] (1987)\n\n[[Star Wars D6 REUP.pdf]] (200)\n\n\n",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": 260,
+      "y": -170,
+      "width": 300,
+      "height": 410,
+      "color": "2"
+    },
+    {
+      "id": "231f677a7b0c0f64",
+      "type": "text",
+      "text": "# Your Character Sheet",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "x": -112,
+      "y": -320,
+      "width": 365,
+      "height": 80,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "b86ee7259f81afcd",
+      "styleAttributes": {
+        "arrow": "diamond"
+      },
+      "fromNode": "411af8a567c83642",
+      "fromSide": "top",
+      "toNode": "7b55d32d20a2f608",
+      "toSide": "bottom",
+      "toEnd": "none",
+      "color": "2"
+    },
+    {
+      "id": "78a1b23669908370",
+      "styleAttributes": {
+        "arrow": "diamond"
+      },
+      "fromNode": "7b55d32d20a2f608",
+      "fromSide": "left",
+      "toNode": "00b455c9e6086e21",
+      "toSide": "right",
+      "toEnd": "none",
+      "color": "2"
+    },
+    {
+      "id": "3735394c6c6dc539",
+      "styleAttributes": {
+        "arrow": "diamond"
+      },
+      "fromNode": "7b55d32d20a2f608",
+      "fromSide": "right",
+      "toNode": "ad9e230064fa0647",
+      "toSide": "left",
+      "toEnd": "none",
+      "color": "2"
+    }
+  ],
+  "metadata": {}
+}

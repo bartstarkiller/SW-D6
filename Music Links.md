@@ -8,6 +8,7 @@ Singy Witch Music
 
 (Lunar Witch) https://www.youtube.com/watch?v=nLPNqc-x7-U
 
+---
 Funky / Groovy
 
 **Salvage Ship Source (funky, goosebumps type cyber groove**)
@@ -18,6 +19,8 @@ https://www.youtube.com/watch?v=CS2100Hjjxk&list=PLDHwcfDxNInbftRGL4DxuC7Zr5u34U
 **Yesterday's Jawa - SWTOR Jazzy almost Mario music sounding**
 https://www.youtube.com/watch?v=3NgWrFbk2U8&list=PLiJsK_sFeeKygEepqlUoXIBwcyeGfXrXx&index=3
 
+---
+
 Club, Lounge, and Cocktail
 
 **Kayfoundo Naweea (Hungry Eyes)** - In accurate Hutteese. 
@@ -27,6 +30,23 @@ https://www.youtube.com/watch?v=SORzg95CGcA&list=PLiJsK_sFeeKygEepqlUoXIBwcyeGfX
 https://www.youtube.com/watch?v=fNugw3OZwR8&list=PLiJsK_sFeeKygEepqlUoXIBwcyeGfXrXx&index=17
 **Chicken In the Pot, from Han Solo** - Space french coy lounge
 https://www.youtube.com/watch?v=u00wzSyFvAY&list=PLUzaZhPARLq-oMgkycnPZgu95rH58dMwh&index=199
+
+---
+**Foreign Insturmentation/Language Unusual**
+
+Raag Bhairav - super multi-registered instrument, has great dual high and low frequency portions in 2nd half
+https://www.youtube.com/watch?v=lOWlToiC2QA
+
+Mayan flute- new woodwind, lots of echo and reverberation from flute and big nature spaces for stage
+Wandering Sage https://www.youtube.com/watch?v=ayqcWOK7-eE
+Mayan Temple Flute Biggest One Ever Made https://www.youtube.com/watch?v=bIbLPDlbW-Q
+Aeolus https://www.youtube.com/watch?v=cgQ3KIxGv7k
+Terra Mater https://www.youtube.com/watch?v=SdtIrt_GkkY 
+Far Away Land https://www.youtube.com/watch?v=qK7PEWFdwKU
+
+Santoor and grizzled singing
+https://www.youtube.com/watch?v=iLZQuO_e3Hs
+
 
 **Music to Listen while creating to**
 

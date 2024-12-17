@@ -1,4 +1,4 @@
-![[Pasted image 20240412223622.png |250]]
+![[Pasted image 20241203142829.png]]
 Gigoran {.Aurebash}
 
 Home Planet: Gigor
@@ -23,3 +23,6 @@ Home Planet: Gigor
 
 #high_strength_attribute  #brawling_skill #family_oriented 
 #Gigoran #Gigor
+
+
+![[Pasted image 20240412223622.png |250]]

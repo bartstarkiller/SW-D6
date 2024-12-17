@@ -1,0 +1,1915 @@
+{
+  "nodes": [
+    {
+      "id": "1a88abf057b54a84",
+      "type": "group",
+      "styleAttributes": {
+        "border": null
+      },
+      "x": 0,
+      "y": -1340,
+      "width": 840,
+      "height": 2680,
+      "color": "2",
+      "label": "Bounty Hunter Template"
+    },
+    {
+      "id": "c66e2510b1b2a05f",
+      "type": "group",
+      "styleAttributes": {
+        "border": null
+      },
+      "x": -840,
+      "y": -1340,
+      "width": 840,
+      "height": 2680,
+      "color": "2",
+      "label": "Bounty Hunter Template"
+    },
+    {
+      "id": "8ed829e60f9d909e",
+      "type": "text",
+      "text": "**Personality:**",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": 20,
+      "y": -73,
+      "width": 788,
+      "height": 382,
+      "color": "2"
+    },
+    {
+      "id": "c7fbc6b651893832",
+      "type": "text",
+      "text": "**A Quote:**",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": 20,
+      "y": 317,
+      "width": 788,
+      "height": 112,
+      "color": "2"
+    },
+    {
+      "id": "08fdd602b45d8d95",
+      "type": "text",
+      "text": "**Connection With Other Characters:**",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": 20,
+      "y": 437,
+      "width": 788,
+      "height": 712,
+      "color": "2"
+    },
+    {
+      "id": "1f3f70bd79c90fa5",
+      "type": "text",
+      "text": "#     *STAR WARS*",
+      "styleAttributes": {
+        "border": "dotted",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": 340,
+      "y": 1200,
+      "width": 200,
+      "height": 100
+    },
+    {
+      "id": "5b57f42d835c8e11",
+      "type": "text",
+      "text": "**Size:**",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -374,
+      "y": -1040,
+      "width": 342,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "981a3140f54c0c35",
+      "type": "text",
+      "text": "**Age:**",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -374,
+      "y": -980,
+      "width": 342,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "0fc7dd489ba90b27",
+      "type": "text",
+      "text": "##### STAR WARS",
+      "styleAttributes": {
+        "border": "dotted",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -232,
+      "y": -1320,
+      "width": 120,
+      "height": 68
+    },
+    {
+      "id": "f1364dfd24e5454c",
+      "type": "text",
+      "text": "##### 1st E.",
+      "styleAttributes": {
+        "border": "dotted",
+        "textAlign": null
+      },
+      "lockedHeight": true,
+      "x": -112,
+      "y": -1320,
+      "width": 80,
+      "height": 68
+    },
+    {
+      "id": "04ec4408c29e15bd",
+      "type": "text",
+      "text": "###### Character Template",
+      "styleAttributes": {
+        "border": "dotted",
+        "textAlign": "center",
+        "shape": null
+      },
+      "lockedHeight": true,
+      "x": -232,
+      "y": -1252,
+      "width": 200,
+      "height": 60
+    },
+    {
+      "id": "fa3fd08f71fcb302",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": -586,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "7f4bf45864d48b36",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": -526,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "277240a7b8aef367",
+      "type": "text",
+      "text": "**Con**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": -586,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "bece07b72edcc0e3",
+      "type": "text",
+      "text": "**Gambling**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": -526,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "01a34a027428814d",
+      "type": "text",
+      "text": "**Command**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": -646,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "dd044983d71185d0",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": -706,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "b83e6b7528896db4",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": -646,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "f5e8ffedce39694f",
+      "type": "text",
+      "text": "# Gambler",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": 20,
+      "y": -1302,
+      "width": 540,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "e6f2fc798eb461f9",
+      "type": "text",
+      "text": "**Equipment:**",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": 20,
+      "y": -1220,
+      "width": 788,
+      "height": 300,
+      "color": "2"
+    },
+    {
+      "id": "ca48314de30f860f",
+      "type": "text",
+      "text": "**Background:**",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": 20,
+      "y": -908,
+      "width": 788,
+      "height": 824,
+      "color": "2"
+    },
+    {
+      "id": "4894f4b4ce763088",
+      "type": "text",
+      "text": "**Brawling Parry**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -646,
+      "width": 165,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "0acf1d63643858b1",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -655,
+      "y": -646,
+      "width": 215,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "9495705026b64c82",
+      "type": "text",
+      "text": "**Melee Parry**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -406,
+      "width": 140,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e89e49ea17fbfa85",
+      "type": "text",
+      "text": "**Heavy Weapons**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -466,
+      "width": 180,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "a5abfa1e4ae78ba4",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -640,
+      "y": -466,
+      "width": 200,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "544b8c3baf45419c",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -680,
+      "y": -406,
+      "width": 240,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "22c1510f9df753e5",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": -466,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "be8f01396b969646",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": -406,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "0c1ff2fbb78e8882",
+      "type": "text",
+      "text": "**Hide/Sneak**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": -466,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "ec033940b3303fb3",
+      "type": "text",
+      "text": "**Search**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": -406,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "786ff7c03b49710a",
+      "type": "text",
+      "text": "**Blaster**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -706,
+      "width": 120,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e4fd3ad86b518af9",
+      "type": "text",
+      "text": "**Dodge**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -586,
+      "width": 120,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e19aab99a93a905b",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -700,
+      "y": -706,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "40f951f9ae142b7a",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -700,
+      "y": -586,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "28e213a023135d47",
+      "type": "text",
+      "text": "# Dexterity",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -766,
+      "width": 240,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "fc92deeae4cbc7dc",
+      "type": "text",
+      "text": "3D+2",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "right"
+      },
+      "lockedHeight": true,
+      "x": -580,
+      "y": -766,
+      "width": 140,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "edd14284b2e06d45",
+      "type": "text",
+      "text": "**Physical Description:**",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -920,
+      "width": 788,
+      "height": 140,
+      "color": "2"
+    },
+    {
+      "id": "ea00e3f020b3ffac",
+      "type": "text",
+      "text": "**Grenade**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -526,
+      "width": 140,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "379168c8cdaa2861",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -680,
+      "y": -526,
+      "width": 240,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e334d587a8dcf8e4",
+      "type": "text",
+      "text": "**Bargain**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": -706,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "838a156c574f7e8b",
+      "type": "text",
+      "text": "**Identity:**",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -980,
+      "width": 342,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "72670b08510b178a",
+      "type": "text",
+      "text": "# Gambler",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -1302,
+      "width": 540,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "3fa4e69f0ea664e3",
+      "type": "text",
+      "text": "**Character Name:**",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -1160,
+      "width": 788,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e5f16419751f5582",
+      "type": "text",
+      "text": "**Player Name:**",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -1100,
+      "width": 788,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "70777a76c2171704",
+      "type": "text",
+      "text": "**Astrogation**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 520,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e83d4d9feb2cecdb",
+      "type": "text",
+      "text": "# Mechanical",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": 460,
+      "width": 240,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "5203c0523ce63886",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 520,
+      "width": 195,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "b3eafc489a8a6d0e",
+      "type": "text",
+      "text": "# Perception",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": -766,
+      "width": 240,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "2d3238b29b3e21fd",
+      "type": "text",
+      "text": "4D",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "right"
+      },
+      "lockedHeight": true,
+      "x": -158,
+      "y": -766,
+      "width": 126,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "03c6338928b62b6d",
+      "type": "text",
+      "text": "**Height:**",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -1040,
+      "width": 342,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "67588c74f46e23ba",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 580,
+      "width": 195,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "f1b724c577556c4e",
+      "type": "text",
+      "text": "0 {.Aurebash}",
+      "styleAttributes": {
+        "border": "invisible",
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -577,
+      "y": 1020,
+      "width": 149,
+      "height": 160,
+      "color": "1"
+    },
+    {
+      "id": "810ace35a4fc42dd",
+      "type": "text",
+      "text": "**Starship Shields**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 820,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e0b094261ab53926",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 820,
+      "width": 195,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "3a09713ec25295bd",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 880,
+      "width": 195,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "8d9f981c174c62b3",
+      "type": "text",
+      "text": "**Beast Riding**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 580,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "03dd3785aaead677",
+      "type": "text",
+      "text": "**Repulsorlift Ops**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 640,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "fab9ecd747432cd8",
+      "type": "text",
+      "text": "****",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 880,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "3de5b0a006937a18",
+      "type": "text",
+      "text": "1 {.Aurebash}",
+      "styleAttributes": {
+        "border": "invisible",
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -746,
+      "y": 1020,
+      "width": 149,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "6dc0ea6a60f21e8f",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 28,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "5759992c0a572954",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 88,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "4022a4f7fb939a75",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": -32,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "3f091f7654b04bea",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": -92,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "faa326194e6d0549",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 640,
+      "width": 195,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "4608e29a49c6e301",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 700,
+      "width": 195,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "ff2a453492835b14",
+      "type": "text",
+      "text": "**Starship Gunnery**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 700,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "b06dccb377b66663",
+      "type": "text",
+      "text": "2D+1",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "right"
+      },
+      "lockedHeight": true,
+      "x": -580,
+      "y": 460,
+      "width": 123,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "adaa98e6b4cbf96e",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 328,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "518ba0cfe57bf33b",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 760,
+      "width": 195,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "4243eb3e6f5aaf3d",
+      "type": "text",
+      "text": "**Languages**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 88,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "7786e2f659b4ae40",
+      "type": "text",
+      "text": "**Alien Races**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": -92,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "3eb9a06be4da1419",
+      "type": "text",
+      "text": "**Beauracracy**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": -32,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "489ed546b1374ea0",
+      "type": "text",
+      "text": "**Cultures**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 28,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "85541bc88845fc83",
+      "type": "text",
+      "text": "**Survival**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 208,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "f7a305a545e65e5a",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 208,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "9e1d90372c196a24",
+      "type": "text",
+      "text": "**Technology**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 268,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "628f22b743eb0659",
+      "type": "text",
+      "text": "****",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 328,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "bdf81252ae6883d5",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 148,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "d245f526389c908a",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": 268,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "a1abc0d5d109498c",
+      "type": "text",
+      "text": "Force Points",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -717,
+      "y": 1200,
+      "width": 91,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "1baaaff4919da4cc",
+      "type": "text",
+      "text": "Dark Side Points",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -548,
+      "y": 1200,
+      "width": 91,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "7d87cff2aede7fcb",
+      "type": "text",
+      "text": "**Planetary Systems**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 148,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "98249fbb1a5e722d",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": 610,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "dd5927849a4cd9b7",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": 670,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "c05c5d97e2aa3812",
+      "type": "text",
+      "text": " 0 {.Aurebash}",
+      "styleAttributes": {
+        "border": "invisible",
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -409,
+      "y": 1020,
+      "width": 149,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "76bf5edd61f46dec",
+      "type": "text",
+      "text": "5 {.Aurebash}",
+      "styleAttributes": {
+        "border": "invisible",
+        "shape": "circle",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -238,
+      "y": 1020,
+      "width": 149,
+      "height": 160,
+      "color": "6"
+    },
+    {
+      "id": "c169d18c8dc68351",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": 730,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "9a417ef54ffb29ed",
+      "type": "text",
+      "text": "Wound Status",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -380,
+      "y": 1200,
+      "width": 91,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "ab96c39223fcb99e",
+      "type": "text",
+      "text": "Skill Points",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -204,
+      "y": 1200,
+      "width": 81,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "b266d415785f1dd7",
+      "type": "text",
+      "text": "**Starship Piloting**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": 760,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "18cd33ebb0de5baa",
+      "type": "text",
+      "text": "**Security**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": 610,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "f794392a8276923a",
+      "type": "text",
+      "text": "**Starship Repair**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": 670,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "934c58616de50209",
+      "type": "text",
+      "text": "****",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": 730,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "3e1ac0327fc76f8f",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": 550,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "69c402e6f2814e0c",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": 430,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "58aeb9714c1581e1",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": 490,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "3dbcc91a0926ec90",
+      "type": "text",
+      "text": "**Droid Prog. / Repair**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": 430,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "8ec7e77255681923",
+      "type": "text",
+      "text": "**Repulsorlift Repair**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": 550,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "c46825bc1cec7025",
+      "type": "text",
+      "text": "**Medicine**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": 490,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "aae91e8983cee577",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": 310,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "2e85c8591185d518",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": 370,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "8656168d206f36ca",
+      "type": "text",
+      "text": "**Demolition**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": 370,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "f774990fe666d9c5",
+      "type": "text",
+      "text": "**Comp. Prog. / Repair**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": 310,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "555518f086dcb220",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": 134,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "88347d5765618add",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": -46,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "dc68b896a5f6ab68",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": 14,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "ceee45735f42e8dd",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": 74,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "c0b22b26694893af",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": -340,
+      "y": -160,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "14d552bed5a90250",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": -106,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "63ffece0a02bf73c",
+      "type": "text",
+      "text": "2D+1",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "right"
+      },
+      "lockedHeight": true,
+      "x": -160,
+      "y": 250,
+      "width": 128,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e415c57c8bb7635a",
+      "type": "text",
+      "text": "# Technical",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": 250,
+      "width": 240,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "21f50d0c93aa8326",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": -346,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "4d56fedf11cb4c5e",
+      "type": "text",
+      "text": "2D+2",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "right"
+      },
+      "lockedHeight": true,
+      "x": -158,
+      "y": -226,
+      "width": 126,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "ac285a687935e70a",
+      "type": "text",
+      "text": "# Strength",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": -226,
+      "width": 240,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "32a95e9aa85c27a5",
+      "type": "text",
+      "text": "**Lifting**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": -46,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "75a1fd418ae838dd",
+      "type": "text",
+      "text": "**Swimming**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": 74,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "becf60a156d7a38b",
+      "type": "text",
+      "text": "**Stamina**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": 14,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "c8c04951871cea85",
+      "type": "text",
+      "text": "**Climbing/Jumping**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": -106,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "d95595dfe5e92438",
+      "type": "text",
+      "text": "****",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": 134,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "bb40a5bc2f687ce3",
+      "type": "text",
+      "text": "# Knowledge",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": -152,
+      "width": 240,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "a3f182e63d58f939",
+      "type": "text",
+      "text": "**Melee **",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -820,
+      "y": -346,
+      "width": 100,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "4e041c7d20d473db",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -720,
+      "y": -346,
+      "width": 280,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "1da0bf5c0d7b3df1",
+      "type": "text",
+      "text": "****",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -822,
+      "y": -286,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "ac42c77a04e2975a",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -652,
+      "y": -286,
+      "width": 210,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "ad3a4dd291ad5ad5",
+      "type": "text",
+      "text": "3D",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "right"
+      },
+      "lockedHeight": true,
+      "x": -580,
+      "y": -152,
+      "width": 126,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "8f8bc462667300c0",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -230,
+      "y": -166,
+      "width": 198,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "19a52083276fb1cc",
+      "type": "text",
+      "text": "**Brawling**",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": -166,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "006bcb4bacd44437",
+      "type": "text",
+      "text": "****",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "lockedHeight": true,
+      "x": -400,
+      "y": -346,
+      "width": 170,
+      "height": 60,
+      "color": "2"
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

@@ -9,5 +9,7 @@
   "ITS@@slrvb-b": false,
   "ITS@@ITS-Table-Styling": "tables-borders",
   "ITS@@ITS-Table-Alt-Colors": "tables-alt-original",
-  "pathfinder-2e-statblocks@@layout-theme-basic": "basic-pathfinder-2e-layout-theme-default"
+  "pathfinder-2e-statblocks@@layout-theme-basic": "basic-pathfinder-2e-layout-theme-default",
+  "ITS@@canvas-cards": false,
+  "ITS@@paper": false
 }

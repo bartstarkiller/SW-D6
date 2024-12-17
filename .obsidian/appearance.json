@@ -8,5 +8,8 @@
     "S - Encoded Fonts",
     "S - Encoded Icons",
     "AurebashCanonFont"
-  ]
+  ],
+  "textFontFamily": "",
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": ""
 }

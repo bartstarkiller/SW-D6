@@ -2,8 +2,7 @@
 
 Type: Modified blaster/grappling gun assembly
 Scale: Character
-Skill: Blaster: blaster carbine or Missile weapons: grappling
-gun
+Skill: Blaster: blaster carbine or Missile weapons: grappling gun
 Ammo: 100 (blaster), 1 (hook)
 Cost: Not available for sale
 Availability: 3, X

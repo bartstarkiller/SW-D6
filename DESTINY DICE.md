@@ -27,3 +27,5 @@ Destiny dice{.Aurebash}
  `dice: [[DESTINY DICE^2D6-1]]` 
 
  `dice: [[DESTINY DICE^2D6-2]]` 
+
+ `dice: [[DESTINY DICE^2D6-2]] | render` 

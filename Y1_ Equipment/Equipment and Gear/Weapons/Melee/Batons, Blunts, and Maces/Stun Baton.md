@@ -1,3 +1,4 @@
+![[Pasted image 20241203152658.png]]
 ![[Pasted image 20241027010735.png]]
 
 Model: Merr-Sonn Stun Baton

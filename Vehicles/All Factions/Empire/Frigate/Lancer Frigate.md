@@ -1,4 +1,4 @@
-![[Pasted image 20241129000241.png]]
+![[Pasted image 20241203184608.png]]
 Craft: **Kuat Drive Yard’s Lancer-class Frigate**
 Affiliation: Empire
 Era: Rebellion
@@ -43,3 +43,7 @@ Space: 4
 
 
 *Source: Imperial Sourcebook (page 55), Dark Force Rising Sourcebook (pages 139-140), The Thrawn Trilogy Sourcebook (page 220), The Essential Guide to Vehicles and Vessels (pages 102-103)*
+
+
+![[Pasted image 20241129000241.png]]
+

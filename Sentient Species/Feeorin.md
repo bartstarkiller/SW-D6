@@ -1,4 +1,4 @@
-![[Feeorin.png |210]]
+![[Feeorin.png]]
 Feeorin {.Aurebash}
 
 Home Planet: 

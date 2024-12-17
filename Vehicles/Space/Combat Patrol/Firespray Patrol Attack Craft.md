@@ -37,3 +37,6 @@ Damage: 4D
 
 
 *Source: Pirates & Privateers (page 75), Starships of the Galaxy (page 81), The Essential Guide to Vehicles and Vessels (pages 144-145)*
+
+![[Pasted image 20241208022425.png]]
+

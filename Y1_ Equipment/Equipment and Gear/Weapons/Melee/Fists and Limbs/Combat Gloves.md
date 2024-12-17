@@ -1,4 +1,4 @@
-![[Pasted image 20241022165121.png]]**
+![[Pasted image 20241022165121.png]]
 
 Model: Stock Combat Gloves
 Type: Brawling weapon

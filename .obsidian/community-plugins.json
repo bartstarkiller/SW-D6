@@ -10,10 +10,10 @@
   "oz-image-plugin",
   "highlightr-plugin",
   "colored-text",
-  "table-editor-obsidian",
   "cmenu-plugin",
   "multi-column-markdown",
   "obsidian-text-format",
   "obsidian-admonition",
-  "settings-search"
+  "settings-search",
+  "advanced-canvas"
 ]

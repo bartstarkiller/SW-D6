@@ -9,16 +9,6 @@
         "dimension": 77.58164165931156,
         "children": [
           {
-            "id": "e4cb255e5df341fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "6f74a44763370eb9",
             "type": "leaf",
             "state": {
@@ -227,16 +217,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Wampa.md",
+                "file": "A _ GALAXY MAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wampa"
+              "title": "A _ GALAXY MAP"
+            }
+          },
+          {
+            "id": "b6c43f8483b754af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "9e5856c12d161828",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Character Building/1. Your Character/Your Character Sheet.canvas",
+                "viewState": {
+                  "x": 66.63976444620127,
+                  "y": 106.65954278839436,
+                  "zoom": -0.7375874378702016
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Your Character Sheet"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       },
       {
         "id": "c1cf788481015aba",
@@ -249,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Creatures/Wampa.md",
+                "file": "Character Building/1. Your Character/Your Character Sheet.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,12 +293,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.035738165181834675,
+                  "scale": 0.008823022933256687,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Wampa"
+              "title": "Graph of Your Character Sheet"
             }
           }
         ]
@@ -311,7 +332,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Tansyl_5",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -437,23 +458,13 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
-          {
-            "id": "0f6497f49f7d9c83",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -468,61 +479,66 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "056650afff19b10f",
+  "active": "9e5856c12d161828",
   "lastOpenFiles": [
-    "Creatures/Ssamb.md",
-    "Creatures/Hydroid Medusa.md",
-    "Creatures/Heklu.md",
-    "Creatures/Ghostling.md",
-    "Characters/Captain Raymus Antillies.md",
-    "Characters/The Hunt/Dezono Qua.md",
-    "Characters/The Hunt/Not Yet Determined Adversary.md",
-    "Characters/The Hunt/That Fat Twi'lek Senator.md",
-    "Characters/The Hunt/Sorc Tormo.md",
-    "Character Building/Sentient Species.md",
-    "Character Building/Vehicles.md",
-    "Character Building/Organizations.md",
-    "Character Building/Modifying Armor, Equipment, and Weapons.md",
-    "Character Building/Guide to Using this Holocron.md",
-    "Character Building/Goods and Services.md",
-    "Character Building/Edges and Burdens.md",
-    "Character Building/Attributes and Skills.md",
     "Character Building/1. Creating Your Character.md",
-    "Blasters.md",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Utility/Yorik-stronha Spy Ship.md",
-    "ZZ_Pasted + Images/Pasted image 20241130004123.png",
-    "Vehicles/All Factions/CIS/Transport/C-9979 Landing Craft.md",
-    "Vehicles/All Factions/CIS/Transport/Trade Federation Armed Freighter.md",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Yorik-vec Assault Cruiser.md",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Starfighter",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Capital/Viscount Star Defender.md",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Transport",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Utility",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Frigate",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Untitled.canvas",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Corvette",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/Yuuzhan Vong/Capital",
-    "ZZ_Pasted + Images/Pasted image 20241130003610.png",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Capital/Mon Calamari Super Star Cruiser.md",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Capital/Defender Star Destroyer.md",
-    "ZZ_Pasted + Images/Pasted image 20241130003217.png",
-    "ZZ_Pasted + Images/Pasted image 20241130002945.png",
-    "ZZ_Pasted + Images/Pasted image 20241130002741.png",
-    "ZZ_Pasted + Images/Pasted image 20241130002550.png",
-    "ZZ_Pasted + Images/Pasted image 20241130002340.png",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Capital",
-    "ZZ_Pasted + Images/Pasted image 20241130002103.png",
-    "ZZ_Pasted + Images/Pasted image 20241130001924.png",
-    "ZZ_Pasted + Images/Pasted image 20241130001713.png",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Frigate",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Utility",
-    "Vehicles/Pre and Post Movies Timeperiods/Post Endor/New Republic/Corvette",
+    "Character Building/2. How The Game Goes.md",
     "Aurebesh/Untitled.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Character Building/Character Templates/Unfilled Character Sheet (Text).md",
+    "Character Building/Character Templates/1e Character Templates.canvas",
+    "Character Building/Character Sheet.canvas",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/Terminax TX-1118 Assassin Droid.md",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/Executioner Gladiator Droid.md",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/E522 Assassin Droid.md",
+    "ZZ_Pasted + Images/Pasted image 20241217020018.png",
+    "ZZ_Pasted + Images/Pasted image 20241217015837.png",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/Attack Droid.md",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/2-1 Assassin Droid.md",
+    "ZZ_Pasted + Images/Pasted image 20241217015620.png",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/IG Combat Prototype.md",
+    "ZZ_Pasted + Images/Pasted image 20241217015445.png",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/Untitled.md",
+    "ZZ_Pasted + Images/Pasted image 20241217014646.png",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/Eliminator 434 Assassin Droid.md",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/Untitled",
+    "ZZ_Pasted + Images/Pasted image 20241217014503.png",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/HK Assassin Droid.md",
+    "ZZ_Pasted + Images/Pasted image 20241217014337.png",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/LXC-3TF Assassin droid.md",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/NIL-8 Assassin Droid.md",
+    "ZZ_Pasted + Images/Pasted image 20241217014154.png",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/DSK-1 Deathstrike Seeker Droid.md",
+    "ZZ_Pasted + Images/Pasted image 20241217014038.png",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/ACC-7 Assassin Droid.md",
+    "ZZ_Pasted + Images/Pasted image 20241217013554.png",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/Mark III Sleeper Assassin Droid.md",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/HASH-19 Assassin Droid.md",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/ASP-4 Hunter Droid.md",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd/Mark VI Scarab Assassin Droid.md",
+    "Droids/Droid Models/4th Degree Droids/Other Military Droids/Battle Probot.md",
+    "Droids/Droid Models/4th Degree Droids/Assassin Droidsd",
+    "Droids/Droid Models/Imperial/X-1 Viper Automadon War Droid.md",
+    "Droids/Droid Models/4th Degree Droids/Other Military Droids/SD-10 Infantry Droid.md",
+    "Droids/Droid Models/4th Degree Droids/Other Military Droids/SD-9 Infantry Droid.md",
+    "Droids/Droid Models/4th Degree Droids/Other Military Droids/SD-6 Hulk Infantry Droid.md",
+    "Droids/Droid Models/Imperial/Dark Trooper Phase Three.md",
+    "Droids/Droid Models/4th Degree Droids/Trade Federation",
+    "Droids/Droid Models/4th Degree Droids/Other Military Droids",
+    "Droids/Droid Models/4th Degree Droids",
+    "Droids/Droid Models/3rd Degree Droids/Gambling Droids",
+    "Droids/Droid Models/3rd Degree Droids/Business Droids",
+    "Droids/Droid Models/3rd Degree Droids/Caretaker Droids",
+    "Droids/Droid Models/3rd Degree Droids/Servant Droids",
+    "Character Building/Character Templates/1e Character Templates (Canvas)/Bounty Hunter.canvas",
+    "Character Building/Character Templates/1e Character Templates (Text Document)",
+    "Character Building/Character Templates/1e Character Templates (Canvas)/Brash Pilot.canvas",
+    "Character Building/Character Templates/Unfilled Character Sheet.canvas",
+    "Character Building/Character Templates/Hyperspace D6 Mix and Match.canvas",
+    "Character Building/Character Templates/2e REUP Character Templates.canvas",
+    "Character Building/1. Your Character/Your Character Sheet.canvas",
+    "Character Building/Character Templates/1e Character Templates (Canvas)/1e Blank Template.canvas"
   ]
 }
